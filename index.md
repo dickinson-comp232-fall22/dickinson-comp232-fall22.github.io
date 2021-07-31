@@ -1,7 +1,8 @@
 # COMP232: Data Structures and Problem Solving, fall 2021
 
-* [syllabus](syllabus.docx)
-
+* [Syllabus](syllabus.docx)
+* [Schedule](schedule.xlsx)
+* [Detailed schedule and class resources](resources)
 <!---
 
     <UL>
