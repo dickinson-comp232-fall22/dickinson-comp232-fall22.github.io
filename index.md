@@ -3,6 +3,7 @@
 * [Syllabus](syllabus.docx)
 * [Schedule](schedule.xlsx)
 * [Detailed schedule and class resources](resources)
+* [Homework assignments](hw)
 
 
 
