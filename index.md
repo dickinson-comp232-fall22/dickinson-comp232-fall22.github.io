@@ -3,8 +3,10 @@
 * [Syllabus](syllabus.docx)
 * [Schedule](schedule.xlsx)
 * [Detailed schedule and class resources](resources)
-<!---
 
+
+
+<!---
     <UL>
       <LI><A HREF="syllabus-12-1-2020.docx">Syllabus</A> </LI>
       <LI><A HREF="schedule-12-2-2020.xlsx">Summary schedule </A> </LI>
@@ -16,5 +18,4 @@
     <hr>
   </body>
 </html>
-
 -->
