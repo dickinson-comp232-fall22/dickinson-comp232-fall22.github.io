@@ -1,4 +1,6 @@
-# COMP232: Data Structures and Problem Solving, fall 2021</h2>
+# COMP232: Data Structures and Problem Solving, fall 2021
+
+* [syllabus](syllabus.docx)
 
 <!---
 
