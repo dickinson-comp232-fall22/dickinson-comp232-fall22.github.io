@@ -2,7 +2,7 @@
 
 * [hw0](hw0.docx): github submission practice
 * [hw1](hw1.docx): recursion
-  - assignment invitation URL: https://classroom.github.com/a/h48z659D
+  - assignment invitation URL: [https://classroom.github.com/a/h48z659D]
 
 
 <!---
