@@ -15,3 +15,6 @@
 * [hw8](hw8.docx): functional programming
 * [hw9](hw9.docx): graphs
 -->
+
+
+Last modified: Sun Aug 19:38:53 UTC 2021 by jmac.
