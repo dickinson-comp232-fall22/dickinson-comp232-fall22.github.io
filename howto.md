@@ -1,34 +1,35 @@
 # HowTo page for COMP232
 
-## Installing required software 
+## Installing Eclipse 
 
-For completing homework in this course, you will need to install the following  software on your computer (or you can use the computers in the Tome building, which already have the necessary software installed):
+Download and install The Eclipse IDE (integrated development
+environment), available from
+[eclipse.org](https://www.eclipse.org/downloads/).
 
-* The Eclipse IDE (integrated development environment), available from [eclipse.org](eclipse.org).
-   - During installation, choose the option "Eclipse IDE for Java Developers"
+   - During installation, choose the option "Eclipse IDE for Java
+     Developers"
 
 
-## Accessing Eclipse remotely
-If you are unable to install your own software as described above, a good alternative is to access a computer at Dickinson remotely and run eclipse on the Dickinson computer. This is achieved through the following website:
-https://remotelab.dickinson.edu/remotelab/
-
-Choose a computer in the General Pool—these are the ones that have Eclipse on them. When you start up Eclipse, put your workspace inside your OneDrive. That way, the next time you access the General Pool you can get at the same workspace even if you are assigned a different computer.
 
 ## Obtaining starter code and creating Git repository
-Unless stated otherwise, the following instructions apply to each lab:
 
-Copy the starter code link, available from the course "Labs" webpage.
-Log into your GitHub account and paste the starter code link in the address bar of the same window you used to log in to GitHub.
-If you see a message stating that you need to "Join the classroom: comp132-labs", ignore it and click on "skip to the next step".
-You will see a message to accept an assignment. Once you accept the assignment, GitHub will provide you with a link that you can use to access the code repository for the lab.
-On the GitHub webpage for the starter code repository, click the green Code button, and copy the web URL for "clone with HTTPS".
-Open Eclipse.
-Go to Window | Show View | Other | Git | Git Repositories. A Git Repositories view should appear below the Package Explorer.
-In the Git Repositories view, click on "Clone a Git Repository and add the clone to this view". In the Window that opens up, paste the URL for the starter code repository (already copied above) into the URI field. Enter your GitHub username and password. Click Next and Finish. A Git clone should appear in the Git Repositories window.
-Right click on the Git Repository and select Import Projects | Finish.
-A Java project should now appear in the Package Explorer tab in the left part of the Eclipse window.
-Committing and pushing your changes to GitHub for backup and grading
+Unless stated otherwise, the following instructions apply to each homework assignment:
+
+1. Copy the starter code link, available from the course homework webpage.
+1. Log into your GitHub account and paste the starter code link in the address bar of the same window you used to log in to GitHub.
+1. If you see a message stating that you need to "Join the classroom: ...", ignore it and click on "skip to the next step".
+1. You will see a message to accept an assignment. Once you accept the assignment, GitHub will provide you with a link that you can use to access the code repository for the lab.
+1. On the GitHub webpage for the starter code repository, click the green Code button, and copy the web URL for "clone with HTTPS".
+1. Open Eclipse.
+1. Go to Window | Show View | Other | Git | Git Repositories. A Git Repositories view should appear below the Package Explorer.
+1. In the Git Repositories view, click on "Clone a Git Repository and add the clone to this view". In the Window that opens up, paste the URL for the starter code repository (already copied above) into the URI field. Enter your GitHub username and password. Click Next and Finish. A Git clone should appear in the Git Repositories window.
+1. Right click on the Git Repository and select Import Projects | Finish.
+1. A Java project should now appear in the Package Explorer tab in the left part of the Eclipse window.
+
+## Committing and pushing your changes to GitHub for backup and grading
+
 In order to push your changes to the GitHub repository from Eclipse, right click on the relevant Java project in the Git Repositories view and click on Commit. Find the newly-appeared "Git Staging" window and click on the double-plus symbol to move all of your changes from "Unstaged Changes" to "Staged Changes". Type a descriptive commit message into the Commit Message box (this can be useful later to remind you of what changes you have made). Finally, click "Commit and Push" followed by "Preview", "Push", "Close". This saves all the changes on your computer and also pushes them to the GitHub servers. This is a good way to back up your progress, and it is also the way you will submit code for grading. The instructor will grade the most recently-committed version.
+
 Pulling graded files from GitHub and sharing with lab partner
 You can always view the instructor's grade and comments on your Java source code on the GitHub website. But to share these comments with your lab partner, you will need to pull the instructor's changes back to your own machine. To do this, right click on the relevant Java project in the Git Repositories view and click on Pull. Then email the .java files to your lab partner.
 Finding your source files to share with a lab partner
@@ -150,4 +151,4 @@ Select the font you wish and choose Apply and Close
 
 
 ----
-Last modified: Mon Aug 22:04:03 UTC 2021 by jmac.
+Last modified: Tue Aug 00:50:04 UTC 2021 by jmac.
