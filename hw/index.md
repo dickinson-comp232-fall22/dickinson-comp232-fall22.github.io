@@ -9,10 +9,11 @@
 * [hw3](hw3.docx): generics and linear structures
   - assignment invitation URL: [https://classroom.github.com/a/KA1a5XNJ](https://classroom.github.com/a/KA1a5XNJ)
 
+* [hw4](hw4.docx): binary trees
+  - assignment invitation URL: [https://classroom.github.com/a/_2QjA5A4](https://classroom.github.com/a/_2QjA5A4)
+
 
 <!---
-* [hw4](hw4.docx): binary trees
-  - assignment invitation URL: []()
 * [hw5](hw5.docx): binary tree applications
   - assignment invitation URL: []()
 * [hw6](hw6.docx): sorting
@@ -26,4 +27,4 @@
 -->
 
 ----
-Last modified: Tue Aug 03 14:11:20 UTC 2021 by jmac.
+Last modified: Tue Aug 03 19:44:55 UTC 2021 by jmac.
