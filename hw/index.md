@@ -1,6 +1,6 @@
 # Homework assignments
-
 * [hw0](hw0.docx): github submission practice
+  - assignment invitation URL: [https://classroom.github.com/a/cQJO9gRA](https://classroom.github.com/a/cQJO9gRA)
 * [hw1](hw1.docx): recursion
   - assignment invitation URL: [https://classroom.github.com/a/h48z659D](https://classroom.github.com/a/h48z659D)
 
@@ -17,4 +17,4 @@
 -->
 
 ----
-Last modified: Sun Aug 19:48:20 UTC 2021 by jmac.
+Last modified: Tue Aug 03 03:14:15 UTC 2021 by jmac.
