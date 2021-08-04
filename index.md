@@ -4,6 +4,7 @@
 * [Schedule](schedule.xlsx)
 * [Detailed schedule and class resources](resources)
 * [Homework assignments](hw)
+* [HowTo page](howto.md)
 
 
 
@@ -23,4 +24,4 @@
 
 
 ----
-Last modified: Tue Aug 03 03:11:07 UTC 2021 by jmac.
+Last modified: Wed Aug 18:38:46 UTC 2021 by jmac.
