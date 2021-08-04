@@ -21,9 +21,9 @@ Unless stated otherwise, the following instructions apply to each homework assig
 1. You will see a message to accept an assignment. Once you accept the assignment, GitHub will provide you with a link that you can use to access the code repository for the lab.
 1. On the GitHub webpage for the starter code repository, click the green Code button, and copy the web URL for "clone with HTTPS".
 1. Open Eclipse.
-1. Go to Window | Show View | Other | Git | Git Repositories. A Git Repositories view should appear below the Package Explorer.
+1. Go to Window \| Show View \| Other \| Git \| Git Repositories. A Git Repositories view should appear below the Package Explorer.
 1. In the Git Repositories view, click on "Clone a Git Repository and add the clone to this view". In the Window that opens up, paste the URL for the starter code repository (already copied above) into the URI field. Enter your GitHub username and password. Click Next and Finish. A Git clone should appear in the Git Repositories window.
-1. Right click on the Git Repository and select Import Projects | Finish.
+1. Right click on the Git Repository and select Import Projects \| Finish.
 1. A Java project should now appear in the Package Explorer tab in the left part of the Eclipse window.
 
 ## Committing and pushing your changes to GitHub for backup and grading
@@ -53,14 +53,14 @@ Otherwise, you can explicitly add the library using the following steps:
 
 ## Changing default font of the editor in Eclipse
 
-1. On Window menu, choose Preferences | General | Appearance | Colors and Fonts
-1. Choose Basic | Text Font | Edit...
+1. On Window menu, choose Preferences \| General \| Appearance \| Colors and Fonts
+1. Choose Basic \| Text Font \| Edit...
 1. Select the font you wish and choose Apply and Close
 
 ## Importing .java files into an Eclipse project
 
 1. Right click the project in Package Explorer.
-1. Choose Import | General | File System, hit Next.
+1. Choose Import \| General \| File System, hit Next.
 1. Browse to the folder containing your .java file(s) and click the Select Folder button (or it may be labelled "Open" on a Mac) to select this folder.
 1. Put checkmarks by every folder or file that you wish to import.
 1. Make sure the Into Folder setting is correct—usually this should be set to the `src` subdirectory of your project.
@@ -77,4 +77,4 @@ Otherwise, you can explicitly add the library using the following steps:
 
 
 ----
-Last modified: Tue Aug 03 03:09:52 UTC 2021 by jmac.
+Last modified: Wed Aug 18:49:19 UTC 2021 by jmac.
