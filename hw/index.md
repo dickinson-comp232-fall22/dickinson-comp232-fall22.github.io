@@ -15,10 +15,11 @@
 * [hw5](hw5.docx): binary tree applications (topic 6)
   - assignment invitation URL: [https://classroom.github.com/a/k6t52_mE](https://classroom.github.com/a/k6t52_mE)
 
+* [hw6](hw6.docx): sorting (topic 7)
+  - assignment invitation URL: [https://classroom.github.com/a/wgAJLYcj](https://classroom.github.com/a/wgAJLYcj)
+
 
 <!---
-* [hw6](hw6.docx): sorting (topic 7)
-  - assignment invitation URL: []()
 * [hw7](hw7.docx): hashing (topic 8)
   - assignment invitation URL: []()
 * [hw8](hw8.docx): functional programming (topic 9)
@@ -28,4 +29,4 @@
 -->
 
 ----
-Last modified: Fri Aug 18:14:26 UTC 2021 by jmac.
+Last modified: Fri Aug 18:53:38 UTC 2021 by jmac.

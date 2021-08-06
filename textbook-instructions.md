@@ -1,0 +1,34 @@
+# COMP232 textbook
+
+## Instructions for accessing the textbook
+
+The textbook is stored within a learning management system called [Canvas](https://canvas.instructure.com/). To gain access, please follow the following steps:
+
+
+<!-- 1. Sign up for a free account at the [Canvas registration page](https://canvas.instructure.com/register). -->
+
+
+1. Enroll for the Canvas "course" where the textbook is stored, at the following self-enrollment link: [https://canvas.instructure.com/enroll/JGFNWB](https://canvas.instructure.com/enroll/JGFNWB)
+
+1. Now you can access the textbook materials directly whenever desired, at [https://canvas.instructure.com/courses/3186473](https://canvas.instructure.com/courses/3186473). This link is also provided on the main COMP232 webpage.
+
+<!-- 1. If you need a sign-up code, use `JGFNWB` -->
+
+
+## Important notes about the textbook
+
+* The textbook is assembled from materials provided for free by [OpenDSA](https://opendsa-server.cs.vt.edu/).
+
+* The textbook is stored within the Canvas learning management system
+  because that is the free format provided by OpenDSA. Canvas is a
+  complete learning management system, just like Moodle, but we are
+  not using any features of Canvas other than the textbook modules.
+
+* Some parts of the textbook are set up as assignments. The
+  assignments exist only because OpenDSA provides them by default. You
+  are not required to complete the assignments. The automatic
+  grading performed by Canvas will not affect your Dickinson grade in
+  any way.
+
+
+
