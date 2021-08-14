@@ -21,13 +21,12 @@
 * [hw7](hw7.docx): hashing (topic 8)
   - assignment invitation URL: [https://classroom.github.com/a/CuRhLvuB](https://classroom.github.com/a/CuRhLvuB)
 
+* [hw8](hw8.docx): functional programming (topic 9)
+  - assignment invitation URL: [https://classroom.github.com/a/xsNkXtHX](https://classroom.github.com/a/xsNkXtHX)
+
 * [hw9](hw9.docx): graphs (topic 10)
   - assignment invitation URL: [https://classroom.github.com/a/fP0MY7dQ](https://classroom.github.com/a/fP0MY7dQ)
 
-<!---
-* [hw8](hw8.docx): functional programming (topic 9)
-  - assignment invitation URL: []()
--->
 
 ----
-Last modified: Sun Aug 08 13:58:26 UTC 2021 by jmac.
+Last modified: Sat Aug 14 02:17:33 UTC 2021 by jmac.
