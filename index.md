@@ -6,6 +6,7 @@
 * [Textbook](https://canvas.instructure.com/courses/3186473) on Canvas, and [instructions](textbook-instructions.md) on how to access it.
 * [Homework assignments](hw)
 * [HowTo page](howto.md)
+* [QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
 
 
 
@@ -25,4 +26,4 @@
 
 
 ----
-Last modified: Fri Aug 19:16:58 UTC 2021 by jmac.
+Last modified: Tue Aug 17 18:14:14 UTC 2021 by jmac.
