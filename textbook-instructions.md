@@ -30,5 +30,17 @@ The textbook is stored within a learning management system called [Canvas](https
   grading performed by Canvas will not affect your Dickinson grade in
   any way.
 
+## Offline version
 
+An [offline version of the
+textbook](textbook/data-structures-and-problem-solving.pdf) is
+available. This offline version is provided as an additional
+convenience, especially for working without Internet access. The
+offline version has some disadvantages compared to the online version:
+1. The offline version has many formatting problems, such as text and
+   diagrams that do not fit on the page. No attempt has been made to
+   correct these. Please consult the online version to see any content
+   that is not visible due to formatting problems.
+2. The offline version does not contain any of the dynamic examples
+   available in the online version.
 
