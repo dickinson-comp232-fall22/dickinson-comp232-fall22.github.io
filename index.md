@@ -10,6 +10,7 @@
 * [HowTo page](howto.md)
 * [QR Associate](qra.md)
 * [QR Associate and QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
+* [Acknowledgment](acknowledgment.md)
 
 
 
@@ -29,4 +30,4 @@
 
 
 ----
-Last modified: Sun Aug 22 19:17:11 UTC 2021 by jmac.
+Last modified: Sun Aug 22 19:52:08 UTC 2021 by jmac.

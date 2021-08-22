@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 2
+
+
+
+
+
 ## Class 1
 
 Overview of the course.
