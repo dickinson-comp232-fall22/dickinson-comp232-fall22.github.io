@@ -1,4 +1,4 @@
-# Detailed schedule and resources
+# Detailed schedule
 
 ## Class 1
 

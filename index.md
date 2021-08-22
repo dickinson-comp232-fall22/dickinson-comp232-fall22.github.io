@@ -1,8 +1,8 @@
 # COMP232: Data Structures and Problem Solving, fall 2021
 
 * [Syllabus](syllabus.docx)
-* [Schedule](schedule.xlsx)
-* [Detailed schedule and class resources](resources)
+* [Overview Schedule](schedule.xlsx)
+* [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on Canvas, and [instructions](textbook-instructions.md) on how to access it.
 * [Homework assignments](hw)
 * [HowTo page](howto.md)
@@ -26,4 +26,4 @@
 
 
 ----
-Last modified: Tue Aug 17 18:14:14 UTC 2021 by jmac.
+Last modified: Sun Aug 22 12:15:04 UTC 2021 by jmac.
