@@ -3,10 +3,13 @@
 * [Syllabus](syllabus.docx)
 * [Overview Schedule](schedule.xlsx)
 * [Detailed schedule](resources)
-* [Textbook](https://canvas.instructure.com/courses/3186473) on Canvas, and [instructions](textbook-instructions.md) on how to access it.
+* [Textbook](https://canvas.instructure.com/courses/3186473) on
+  Canvas, and [instructions](textbook-instructions.md) on how to
+  access it, including the offline version.
 * [Homework assignments](hw)
 * [HowTo page](howto.md)
-* [QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
+* [QR Associate](qra.md)
+* [QR Associate and QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
 
 
 
@@ -26,4 +29,4 @@
 
 
 ----
-Last modified: Sun Aug 22 12:15:04 UTC 2021 by jmac.
+Last modified: Sun Aug 22 19:17:11 UTC 2021 by jmac.
