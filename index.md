@@ -8,6 +8,7 @@
   access it, including the offline version.
 * [Homework assignments](hw)
 * [HowTo page](howto.md)
+* [Sample code](comp232-sample-code.zip)
 * [QR Associate](qra.md)
 * [QR Associate and QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
 * [Acknowledgment](acknowledgment.md)
@@ -30,4 +31,4 @@
 
 
 ----
-Last modified: Sun Aug 22 19:52:08 UTC 2021 by jmac.
+Last modified: Mon Aug 23 22:18:15 UTC 2021 by jmac.
