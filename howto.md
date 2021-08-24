@@ -24,7 +24,7 @@ Unless stated otherwise, the following instructions apply to each homework assig
    ...", ignore it and click on "skip to the next step".
 1. You will see a message to accept an assignment. Once you accept the
    assignment, GitHub will provide you with a link that you can use to
-   access yor personal code repository for the assignment. You may
+   access your personal code repository for the assignment. You may
    need to refresh the page to see the link to your repository. Once
    you see the link, follow it. You will now be on a page that we call
    your *personal assignment repository page*.
@@ -128,4 +128,4 @@ Otherwise, you can explicitly add the library using the following steps:
 
 
 ----
-Last modified: Sat Aug 21 15:21:54 UTC 2021 by jmac.
+Last modified: Tue Aug 24 13:18:39 UTC 2021 by jmac.
