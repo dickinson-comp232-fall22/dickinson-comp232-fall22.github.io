@@ -10,3 +10,7 @@ COMP232 whereas others are not necessarily qualified for this.
 Help Room tutoring is also available remotely during the same hours,
 via Microsoft Teams. Please consult the [instructions for how
 to access the Help Room remotely](remote-help-rooms.pdf).
+
+
+----
+Last modified: Wed Sep 01 14:34:33 UTC 2021 by jmac.
