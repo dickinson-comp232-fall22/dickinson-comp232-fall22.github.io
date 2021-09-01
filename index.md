@@ -12,6 +12,7 @@
 * [QR Associate](qra.md)
 * [QR Associate and QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
 * [CS help room](help-room/cs-help-room.md)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/1/2021</font>
+* Class Caf on Microsoft Teams
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams
 * [Acknowledgment](acknowledgment.md)
 
@@ -33,4 +34,4 @@
 
 
 ----
-Last modified: Wed Sep 01 20:06:17 UTC 2021 by jmac.
+Last modified: Wed Sep 01 20:08:12 UTC 2021 by jmac.
