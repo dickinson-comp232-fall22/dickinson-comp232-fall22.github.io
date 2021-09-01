@@ -11,7 +11,7 @@
 * [Sample code](comp232-sample-code.zip)
 * [QR Associate](qra.md)
 * [QR Associate and QR Center](https://users.dickinson.edu/~jmac/qr-center.html)
-* [CS help room](help-room/cs-help-room.md)
+* [CS help room](help-room/cs-help-room.md)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/1/2021</font>
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams
 * [Acknowledgment](acknowledgment.md)
 
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Wed Sep 01 14:30:55 UTC 2021 by jmac.
+Last modified: Wed Sep 01 16:26:48 UTC 2021 by jmac.
