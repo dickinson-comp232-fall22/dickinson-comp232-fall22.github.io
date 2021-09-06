@@ -1,8 +1,18 @@
 # Detailed schedule
 
-<!-- ## Class 2 -->
+## Class 3
+
+Some more sophisticated examples of recursion, including `isReverse()`
+from the textbook and the following two examples based on COMP232
+sample code:
+* [SubsetsIncomplete.java](class03/SubsetsIncomplete.java)
+* [SplitArrayIncomplete.java](class03/SplitArrayIncomplete.java)
 
 
+## Class 2
+
+Elementary examples of recursion, using the coding examples in the
+textbook.
 
 
 
@@ -22,4 +32,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Mon Aug 30 00:21:34 UTC 2021 by jmac.
+Last modified: Mon Sep 06 20:22:32 UTC 2021 by jmac.
