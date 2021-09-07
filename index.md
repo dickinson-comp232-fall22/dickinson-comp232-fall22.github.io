@@ -14,6 +14,8 @@
 * [CS help room](help-room/cs-help-room.md)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/1/2021</font>
 * [Class Caf&eacute; on Microsoft Teams](https://teams.microsoft.com/l/channel/19%3adfaa759531294a5db934de2c461e757f%40thread.tacv2/Class%2520Caf%25C3%25A9?groupId=58a2e67c-ea1c-431b-b361-3b17e0f3df37&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/1/2021</font>
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams
+* [Zoom link](https://lms.dickinson.edu/mod/url/view.php?id=1036902)
+  for occasions when classes online
 * [Acknowledgment](acknowledgment.md)
 
 
@@ -34,4 +36,4 @@
 
 
 ----
-Last modified: Wed Sep 01 20:56:39 UTC 2021 by jmac.
+Last modified: Tue Sep 07 11:44:34 UTC 2021 by jmac.
