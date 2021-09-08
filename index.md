@@ -16,6 +16,7 @@
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams
 * [Zoom link](https://lms.dickinson.edu/mod/url/view.php?id=1036902)
   for occasions when class is online&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/7/2021</font>
+* [Recordings of remote classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988)
 * [Acknowledgment](acknowledgment.md)
 
 
@@ -36,4 +37,4 @@
 
 
 ----
-Last modified: Tue Sep 07 11:52:51 UTC 2021 by jmac.
+Last modified: Wed Sep 08 01:10:42 UTC 2021 by jmac.
