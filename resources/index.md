@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 4
+
+*Backtracking* and its connection to recursion.
+
+* [PermutationsIncomplete.java](class04/PermutationsIncomplete.java)
+
 ## Class 3
 
 Some more sophisticated examples of recursion, including `isReverse()`
@@ -32,4 +38,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Mon Sep 06 20:22:32 UTC 2021 by jmac.
+Last modified: Wed Sep 08 20:16:27 UTC 2021 by jmac.
