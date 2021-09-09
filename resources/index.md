@@ -5,6 +5,7 @@
 *Backtracking* and its connection to recursion.
 
 * [PermutationsIncomplete.java](class04/PermutationsIncomplete.java)
+* [subsets recursion tree](class04/subsets-recursion-tree.png)
 
 ## Class 3
 
@@ -38,4 +39,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Sep 08 20:16:27 UTC 2021 by jmac.
+Last modified: Thu Sep 09 01:25:57 UTC 2021 by jmac.
