@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 
+
+* [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
+* [whiteboard notes](class05/class5-whiteboard.png)
+
+
 ## Class 4
 
 *Backtracking* and its connection to recursion, via *recursion trees*.
@@ -40,4 +46,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Sep 09 17:50:44 UTC 2021 by jmac.
+Last modified: Tue Sep 14 22:49:19 UTC 2021 by jmac.
