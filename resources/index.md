@@ -1,6 +1,6 @@
 # Detailed schedule
 
-## Class 
+## Class 5
 
 * [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
 * [whiteboard notes](class05/class5-whiteboard.png)
@@ -46,4 +46,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Sep 14 22:49:19 UTC 2021 by jmac.
+Last modified: Thu Sep 16 00:50:09 UTC 2021 by jmac.
