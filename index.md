@@ -1,7 +1,7 @@
 # COMP232: Data Structures and Problem Solving, fall 2021
 
 * [Syllabus](syllabus.docx)
-* [Overview Schedule](schedule.xlsx)
+* [Overview Schedule](schedule.xlsx)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/15/2021</font>
 * [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
@@ -16,8 +16,8 @@
 * [Class Caf&eacute; on Microsoft Teams](https://teams.microsoft.com/l/channel/19%3adfaa759531294a5db934de2c461e757f%40thread.tacv2/Class%2520Caf%25C3%25A9?groupId=58a2e67c-ea1c-431b-b361-3b17e0f3df37&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams
 * [Zoom link](https://lms.dickinson.edu/mod/url/view.php?id=1036902)
-  for occasions when class is online&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/7/2021</font>
-* [Recordings of remote classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/7/2021</font>
+  for occasions when class is online
+* [Recordings of remote classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988)
 * [Acknowledgment](acknowledgment.md)
 
 
@@ -38,4 +38,4 @@
 
 
 ----
-Last modified: Wed Sep 08 02:14:52 UTC 2021 by jmac.
+Last modified: Thu Sep 16 01:55:21 UTC 2021 by jmac.
