@@ -4,7 +4,7 @@
   - assignment invitation URL: [https://classroom.github.com/a/cQJO9gRA](https://classroom.github.com/a/cQJO9gRA)
 * [hw1](hw1.docx): recursion (topic 1)
   - assignment invitation URL: [https://classroom.github.com/a/h48z659D](https://classroom.github.com/a/h48z659D)
-* [hw2](hw2.docx): <font color="red">UPDATED on 9/15/2021</font>  algorithm analysis (topic 2)
+* [hw2](hw2.docx): <font color="green">UPDATED on 9/20/2021</font>  algorithm analysis (topic 2)
   - assignment invitation URL: [https://classroom.github.com/a/fUU1kvPK](https://classroom.github.com/a/fUU1kvPK)
 * [hw3](hw3.docx): generics and linear structures (topics 3 and 4)
   - assignment invitation URL: [https://classroom.github.com/a/KA1a5XNJ](https://classroom.github.com/a/KA1a5XNJ)
@@ -29,4 +29,4 @@
 
 
 ----
-Last modified: Thu Sep 16 01:29:56 UTC 2021 by jmac.
+Last modified: Mon Sep 20 15:05:38 UTC 2021 by jmac.
