@@ -1,6 +1,26 @@
 # Detailed schedule
 
+## Class 7
+
+Review of algorithm analysis topic.
+
+* [SayHi.java](class07/SayHi.java)
+* [handout](class07/class7-handout.pdf) for practising asymptotic
+  analysis from first principles
+
+
+## Class 6
+
+Formal definition of big-O, big-omega, big-theta. Solving recurrence
+relations via expansion.
+
+* [whiteboard notes](class06/class06-whiteboard.png)
+
+
+
 ## Class 5
+
+Overview of asymptotic running times, especially big-O.
 
 * [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
 * [whiteboard notes](class05/class5-whiteboard.png)
@@ -46,4 +66,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Sep 16 00:50:09 UTC 2021 by jmac.
+Last modified: Tue Sep 21 01:36:52 UTC 2021 by jmac.
