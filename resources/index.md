@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 8
+
+Review of how to use generics. Then the new idea for this course: how to create your own generic classes and methods.
+
+* [MyThreeFavoriteThings.java](class08/MyThreeFavoriteThings.java)
+* [MyThreeFavoriteThingsGeneric.java](class08/MyThreeFavoriteThingsGeneric.java)
+
 ## Class 7
 
 Review of algorithm analysis topic.
@@ -7,6 +14,7 @@ Review of algorithm analysis topic.
 * [SayHi.java](class07/SayHi.java)
 * [handout](class07/class7-handout.pdf) for practising asymptotic
   analysis from first principles
+* [whiteboard notes](class07/whiteboard-class7.png)
 
 
 ## Class 6
@@ -66,4 +74,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Sep 21 01:36:52 UTC 2021 by jmac.
+Last modified: Wed Sep 22 17:37:39 UTC 2021 by jmac.
