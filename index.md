@@ -19,7 +19,7 @@
   for occasions when class is online
 * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988)
 * [Java API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) (version 17) at Oracle.com
-* The previous course: [COMP131](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/), and especially its [study guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx)
+* The previous course: [COMP132](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/), and especially its [study guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx)
 * [Acknowledgment](acknowledgment.md)
 
 
@@ -40,4 +40,4 @@
 
 
 ----
-Last modified: Tue Sep 28 01:24:02 UTC 2021 by jmac.
+Last modified: Tue Sep 28 18:58:58 UTC 2021 by jmac.
