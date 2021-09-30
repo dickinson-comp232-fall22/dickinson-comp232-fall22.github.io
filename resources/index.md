@@ -1,16 +1,17 @@
 # Detailed schedule
 
-<!-- ## Class 10 -->
+## Class 10
 
-<!-- Today's topics:  -->
-<!-- 1. Iterators -->
-<!--    * This is a repeat of class meeting 41 from COMP132. See topic 12e -->
-<!--      of the [COMP132 study -->
-<!-- guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx). -->
-<!--    * code: [Friends.java](class10/Friends.java), [FriendsIterator.java](class10/FriendsIterator.java), -->
-<!--      [FriendsIteratorUnfinished.java](class10/FriendsIteratorUnfinished.java), [FriendsNested.java](class10/FriendsNested.java). -->
-<!-- 1. Example of amortized analysis: cost of adding to an ArrayList -->
-<!--    * This is an optional topic that will not appear on exams or homework. -->
+Today's topics:
+1. Iterators
+   * This is a repeat of class meeting 41 from COMP132. See topic 12e
+     of the [COMP132 study
+guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx).
+   * code: [Friends.java](class10/Friends.java), [FriendsIterator.java](class10/FriendsIterator.java),
+     [FriendsIteratorUnfinished.java](class10/FriendsIteratorUnfinished.java), [FriendsNested.java](class10/FriendsNested.java).
+   * [slide explaining traversal](class10/traversal.pptx)
+1. Example of amortized analysis: cost of adding to an ArrayList
+   * This is an optional topic that will not appear on exams or homework.
 
 
 ## Class 9
@@ -105,4 +106,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Sep 28 01:47:08 UTC 2021 by jmac.
+Last modified: Thu Sep 30 02:17:51 UTC 2021 by jmac.
