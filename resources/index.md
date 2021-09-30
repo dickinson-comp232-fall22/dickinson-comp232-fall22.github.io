@@ -12,6 +12,7 @@ guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/st
    * [slide explaining traversal](class10/traversal.pptx)
 1. Example of amortized analysis: cost of adding to an ArrayList
    * This is an optional topic that will not appear on exams or homework.
+   * [tollbooth-allegory.pptx](class10/tollbooth-allegory.pptx)
 
 
 ## Class 9
@@ -106,4 +107,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Sep 30 02:17:51 UTC 2021 by jmac.
+Last modified: Thu Sep 30 02:44:30 UTC 2021 by jmac.
