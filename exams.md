@@ -59,3 +59,7 @@ href="https://teams.microsoft.com/l/channel/19%3a8ad9cbd196bc4e8dafdcbc16a67d196
 channel</a>, which will be visible to all members of the class. Any
 announcements or clarifications by the instructor will be posted to
 the Exams channel.
+
+
+----
+Last modified: Fri Oct 01 16:26:42 UTC 2021 by jmac.
