@@ -18,9 +18,14 @@ including Eclipse, web searches, and existing content on programming
 websites and forums. However, it is not permitted to seek help from
 other humans either directly or via an online forum.
 
-Exams will be provided in Microsoft Word format. Answers must be
-provided as a single file in PDF format. This may include handwritten
-solutions that have been scanned or photographed.
+Exams will be provided in Microsoft Word format.
+
+Exam solutions should be submitted to GitHub using the same
+methodology as for homework assignments: answers that involve writing
+source code are pushed to the relevant Java files in GitHub; non-code
+answers are inserted into a PDF document which is pushed to the
+`noncode-answers` directory in GitHub. Non-code answers may include
+handwritten solutions that have been scanned or photographed.
 
 Students with academic accommodations receive extra time in the
 normal way. For example, if the stated time to submit the exam is 24
@@ -62,4 +67,4 @@ the Exams channel.
 
 
 ----
-Last modified: Fri Oct 01 16:26:42 UTC 2021 by jmac.
+Last modified: Fri Oct 01 16:36:28 UTC 2021 by jmac.
