@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 11
+
+Exam review session:
+* [PowerPoint notes](class11/class11-review-session.pptx)
+* [Whiteboard notes](class11/whiteboard.png)
+
+
 ## Class 10
 
 Today's topics:
@@ -107,4 +114,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Sep 30 02:44:30 UTC 2021 by jmac.
+Last modified: Wed Oct 06 01:33:39 UTC 2021 by jmac.
