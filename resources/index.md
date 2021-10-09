@@ -2,9 +2,21 @@
 
 ## Class 11
 
-Exam review session:
-* [PowerPoint notes](class11/class11-review-session.pptx)
-* [Whiteboard notes](class11/whiteboard.png)
+Binary trees. Today's topics: 
+* Basic definitions (root, leaves, internal loads, descendants,
+  ancestors, depth, height, path length).
+* recursive nature of binary trees
+* Four types of traversals: Level order, pre-order, in order, post-order.
+* Our ADT for Binary trees
+
+Resources:
+* [PowerPoint notes](class11/topic5-binary-trees.pptx)
+
+
+## Exam review session
+
+* [PowerPoint notes](class10b/class10b-review-session.pptx)
+* [Whiteboard notes](class10b/whiteboard.png)
 
 
 ## Class 10
@@ -114,4 +126,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Oct 06 01:33:39 UTC 2021 by jmac.
+Last modified: Sat Oct 09 14:27:02 UTC 2021 by jmac.
