@@ -1,8 +1,18 @@
 # Detailed schedule
 
+## Class 12
+
+Binary trees session 2. Today's topics: 
+* Definitions of full and complete binary trees
+* Statement of two theorems about binary trees
+* Review traversals
+* Review binary tree ADT
+* Homework help for the binary tree homework assignment
+
+
 ## Class 11
 
-Binary trees. Today's topics: 
+Binary trees session 1. Today's topics: 
 * Basic definitions (root, leaves, internal loads, descendants,
   ancestors, depth, height, path length).
 * recursive nature of binary trees
@@ -11,6 +21,12 @@ Binary trees. Today's topics:
 
 Resources:
 * [PowerPoint notes](class11/topic5-binary-trees.pptx)
+
+For next time:
+* Make a start on the binary tree homework assignment (HW4). Try to
+  look through all the questions and highlight areas where you need a
+  hint to get started. In the next class meeting, we will spend some
+  time giving hints where necessary.
 
 
 ## Exam review session
@@ -126,4 +142,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Sat Oct 09 14:27:02 UTC 2021 by jmac.
+Last modified: Sat Oct 09 14:34:13 UTC 2021 by jmac.
