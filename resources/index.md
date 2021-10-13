@@ -6,9 +6,13 @@ Binary trees session 2. Today's topics:
 * Definitions of full and complete binary trees
 * Statement of two theorems about binary trees
 * Review traversals
-* Review binary tree ADT
+  - Examine the code for level order traversal, which uses a queue
+    rather than employing recursion.
+* Review binary tree ADT, and compare with the Map ADT
 * Homework help for the binary tree homework assignment
 
+A useful example of how to add methods that assist in debugging your
+code: [BTNode.java](class12/BTNode.java)
 
 ## Class 11
 
@@ -142,4 +146,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Sat Oct 09 14:34:13 UTC 2021 by jmac.
+Last modified: Wed Oct 13 00:26:38 UTC 2021 by jmac.
