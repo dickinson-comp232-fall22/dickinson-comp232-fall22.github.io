@@ -9,6 +9,8 @@ Binary trees session 2. Today's topics:
   - Examine the code for level order traversal, which uses a queue
     rather than employing recursion.
 * Review binary tree ADT, and compare with the Map ADT
+* Overview of the Visitor design pattern (see sample code
+  `tree.PrintVisitor.java` for an example)
 * Homework help for the binary tree homework assignment
 
 A useful example of how to add methods that assist in debugging your
@@ -146,4 +148,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Oct 13 00:26:38 UTC 2021 by jmac.
+Last modified: Wed Oct 13 14:42:00 UTC 2021 by jmac.
