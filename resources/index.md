@@ -16,6 +16,10 @@ Binary trees session 2. Today's topics:
 A useful example of how to add methods that assist in debugging your
 code: [BTNode.java](class12/BTNode.java)
 
+Resources:
+* [whiteboard notes](class12/whiteboard-class12.png) &ndash; including updated list of nodes traversed for the warm-up example at the start
+
+
 ## Class 11
 
 Binary trees session 1. Today's topics: 
@@ -148,4 +152,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Oct 13 14:42:00 UTC 2021 by jmac.
+Last modified: Thu Oct 14 17:09:23 UTC 2021 by jmac.
