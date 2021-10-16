@@ -3,15 +3,20 @@
 ## Class 12
 
 Binary trees session 2. Today's topics: 
-* Definitions of full and complete binary trees
-* Statement of two theorems about binary trees
-* Review traversals
-  - Examine the code for level order traversal, which uses a queue
-    rather than employing recursion.
-* Review binary tree ADT, and compare with the Map ADT
-* Overview of the Visitor design pattern (see sample code
-  `tree.PrintVisitor.java` for an example)
-* Homework help for the binary tree homework assignment
+1. Definitions of full and complete binary trees
+1. Statement of two theorems about binary trees
+1. Review traversals
+   - Examine the code for level order traversal, which uses a queue
+     rather than employing recursion.
+1. Review binary tree ADT, and compare with the Map ADT
+1. Overview of the Visitor design pattern (see sample code
+   `tree.PrintVisitor.java` for an example). Additional examples of
+   the Visitor pattern (**very** useful for the binary tree homework
+   assignment):
+   - [SumVisitor.java](class12/SumVisitor.java)
+   - [AverageWithoutLowestVisitor.java](class12/AverageWithoutLowestVisitor.java)
+1. Homework help for the binary tree homework assignment
+   - [Hints for HW4, question 6](class12/hw4-qu6-hints.png)
 
 A useful example of how to add methods that assist in debugging your
 code: [BTNode.java](class12/BTNode.java)
@@ -152,4 +157,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Oct 14 17:09:23 UTC 2021 by jmac.
+Last modified: Sat Oct 16 17:53:48 UTC 2021 by jmac.
