@@ -1,5 +1,9 @@
 # Detailed schedule
 
+<!-- ## Class 13 -->
+
+<!-- * [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-3zmolgc6htDs2E7F-Dz3zdURFdaN0NZVFg5TUswQks2NTNOUVEyVFJCMSQlQCN0PWcu) -->
+
 ## Class 12
 
 Binary trees session 2. Today's topics: 
@@ -157,4 +161,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Sat Oct 16 17:53:48 UTC 2021 by jmac.
+Last modified: Mon Oct 18 14:40:17 UTC 2021 by jmac.
