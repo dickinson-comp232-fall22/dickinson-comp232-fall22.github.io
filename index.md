@@ -1,7 +1,7 @@
 # COMP232: Data Structures and Problem Solving, fall 2021
 
 * [Syllabus](syllabus.docx)
-* [Overview Schedule](schedule.xlsx)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 10/8/2021</font>
+* [Overview Schedule](schedule.xlsx)<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 10/8/2021</font> -->
 * [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
@@ -41,4 +41,4 @@
 
 
 ----
-Last modified: Fri Oct 08 16:01:04 UTC 2021 by jmac.
+Last modified: Thu Oct 21 02:21:25 UTC 2021 by jmac.
