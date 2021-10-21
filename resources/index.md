@@ -1,8 +1,26 @@
 # Detailed schedule
 
-<!-- ## Class 13 -->
+## Class 13
 
-<!-- * [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-3zmolgc6htDs2E7F-Dz3zdURFdaN0NZVFg5TUswQks2NTNOUVEyVFJCMSQlQCN0PWcu) -->
+* Please complete the [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-3zmolgc6htDs2E7F-Dz3zdURFdaN0NZVFg5TUswQks2NTNOUVEyVFJCMSQlQCN0PWcu)
+
+* Main topic for today: binary search trees (BSTs)
+  - **Important note:** In the textbook, equal keys are stored in the
+    *left* child. In the CS232 sample code, equal keys are stored in the
+    *right* child. For the homework, you must store equal keys in the
+    *right* child, not the left child.
+  - three BST operations: 
+    * find
+	* add (also called insert)
+	* remove: 3 cases
+	  - zero children (easy)
+	  - one child (easy)
+	  - two children (swap in value from smallest node in right
+        subtree, then delete that node)
+  - [PowerPoint slides describing the three BST operations](class13/class13-BSTs.pptx)
+  - [handout to practice adding and removing BST nodes](class13/bst-handout.png) 
+  <!-- - [handout solution](class13/bst-handout-solution.png) -->
+
 
 ## Class 12
 
@@ -161,4 +179,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Mon Oct 18 14:40:17 UTC 2021 by jmac.
+Last modified: Thu Oct 21 02:18:28 UTC 2021 by jmac.
