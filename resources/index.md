@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 14
+
+* Main topic: **heaps**
+
+* [PowerPoint slides for heaps](class14/class14-heaps-slides.pptx)
+
+
+
 ## Class 13
 
 * Please complete the [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-3zmolgc6htDs2E7F-Dz3zdURFdaN0NZVFg5TUswQks2NTNOUVEyVFJCMSQlQCN0PWcu)
@@ -179,4 +187,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Oct 21 02:18:28 UTC 2021 by jmac.
+Last modified: Tue Oct 26 02:56:17 UTC 2021 by jmac.
