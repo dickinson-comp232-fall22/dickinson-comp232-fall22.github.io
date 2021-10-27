@@ -8,9 +8,17 @@ Mid-semester feedback results:
 
 Topics for today (all optional, not on the exam or homework):
   * Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
+    - These are called *bounded type parameters*. See https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
   * AVL trees, or balanced trees generally.
+    - [description](https://courses.grainger.illinois.edu/cs225/fa2021/resources/avl-trees/)
+	- [demo](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+	- other balanced trees that are used in practice:
+	  * [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+	  * [B-trees](https://en.wikipedia.org/wiki/B-tree)
   * Javadoc demo
+    - check out the Project \| Generate Javadoc... command in Eclipse.
   * Proof that height of complete tree is O(log n).
+    - follows from the fact that 1 + 2 + 4 + 8 + 16 + ... + 2^d = 2^(d+1) -1
   
 Help and discussion of homework 5 (bring your own questions)
 
@@ -202,4 +210,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Oct 27 00:46:19 UTC 2021 by jmac.
+Last modified: Wed Oct 27 17:27:50 UTC 2021 by jmac.
