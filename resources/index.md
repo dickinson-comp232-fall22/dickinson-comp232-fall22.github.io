@@ -16,7 +16,7 @@ Topics for today (all optional, not on the exam or homework):
 	  * [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 	  * [B-trees](https://en.wikipedia.org/wiki/B-tree)
   * Javadoc demo
-    - check out the Project | Generate Javadoc... command in Eclipse.
+    - check out the Project \| Generate Javadoc... command in Eclipse.
   * Proof that height of complete tree is O(log n).
     - follows from the fact that 1 + 2 + 4 + 8 + 16 + ... + 2^d = 2^(d+1) -1
   
