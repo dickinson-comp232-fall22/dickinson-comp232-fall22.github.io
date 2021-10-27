@@ -1,5 +1,20 @@
 # Detailed schedule
 
+## Class 15
+
+Mid-semester feedback results:
+  - [mid-semester-feedback-results.pdf](class15/mid-semester-feedback-results.pdf)
+  - [mid-semester-feedback-slides.pptx](class15/mid-semester-feedback-slides.pptx)
+
+Topics for today (all optional, not on the exam or homework):
+  * Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
+  * AVL trees, or balanced trees generally.
+  * Javadoc demo
+  * Proof that height of complete tree is O(log n).
+  
+Help and discussion of homework 5 (bring your own questions)
+
+
 ## Class 14
 
 * Main topic: **heaps**
@@ -187,4 +202,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Oct 26 02:56:17 UTC 2021 by jmac.
+Last modified: Wed Oct 27 00:46:19 UTC 2021 by jmac.
