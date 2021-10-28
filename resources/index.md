@@ -1,5 +1,19 @@
 # Detailed schedule
 
+<!-- ## Class 16 -->
+
+<!-- Sorting algorithms: Today we study *insertion sort* and *merge -->
+<!-- sort*. Next time we study *heap sort*. Note that the textbook also -->
+<!-- discusses *selection sort* and mentions *bubble sort*. It is good to -->
+<!-- read about and be aware of selection sort and bubble sort but we do -->
+<!-- not study them in detail. -->
+
+<!-- We've seen this before: -->
+<!-- * [fun link comparing sorting algorithm running -->
+<!--   times](http://www.sorting-algorithms.com/random-initial-order) -->
+
+
+
 ## Class 15
 
 Mid-semester feedback results:
@@ -7,17 +21,17 @@ Mid-semester feedback results:
   - [mid-semester-feedback-slides.pptx](class15/mid-semester-feedback-slides.pptx)
 
 Topics for today (all optional, not on the exam or homework):
-  * Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
+  1. Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
     - These are called *bounded type parameters*. See https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
-  * AVL trees, or balanced trees generally.
+  1. AVL trees, or balanced trees generally.
     - [description](https://courses.grainger.illinois.edu/cs225/fa2021/resources/avl-trees/)
 	- [demo](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
 	- other balanced trees that are used in practice:
 	  * [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 	  * [B-trees](https://en.wikipedia.org/wiki/B-tree)
-  * Javadoc demo
+  1. Javadoc demo
     - check out the Project \| Generate Javadoc... command in Eclipse.
-  * Proof that height of complete tree is O(log n).
+  1. Proof that height of complete tree is O(log n).
     - follows from the fact that 1 + 2 + 4 + 8 + 16 + ... + 2^d = 2^(d+1) -1
   
 Help and discussion of homework 5 (bring your own questions)
@@ -210,4 +224,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Wed Oct 27 17:27:50 UTC 2021 by jmac.
+Last modified: Thu Oct 28 13:41:31 UTC 2021 by jmac.
