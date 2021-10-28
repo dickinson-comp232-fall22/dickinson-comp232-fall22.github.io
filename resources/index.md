@@ -22,7 +22,7 @@ Mid-semester feedback results:
 
 Topics for today (all optional, not on the exam or homework):
   1. Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
-    - These are called *bounded type parameters*. See https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
+    - These are called *bounded type parameters*. See [https://docs.oracle.com/javase/tutorial/java/generics/bounded.html](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html)
   1. AVL trees, or balanced trees generally.
     - [description](https://courses.grainger.illinois.edu/cs225/fa2021/resources/avl-trees/)
 	- [demo](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
@@ -224,4 +224,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Oct 28 13:41:31 UTC 2021 by jmac.
+Last modified: Thu Oct 28 13:43:33 UTC 2021 by jmac.
