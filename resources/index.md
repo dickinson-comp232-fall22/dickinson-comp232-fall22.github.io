@@ -4,7 +4,7 @@
 
 Sorting algorithms: Today we study *insertion sort* and *merge
 sort*. Next time we study *heap sort*. Note that the textbook also
-discusses *selection sort* and mentions *bubble sort* adn *quick
+discusses *selection sort* and mentions *bubble sort* and *quick
 sort*. It is good to read about and be aware of selection sort and
 bubble sort but we do not study them in detail.
 
@@ -225,4 +225,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 02 14:24:07 UTC 2021 by jmac.
+Last modified: Tue Nov 02 20:34:22 UTC 2021 by jmac.
