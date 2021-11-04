@@ -65,6 +65,13 @@ channel</a>, which will be visible to all members of the class. Any
 announcements or clarifications by the instructor will be posted to
 the Exams channel.
 
+## Midterm Exam 2
+
+The instructions for midterm exam 2 are the same as for midterm exam
+1, except that:
+* The exam covers material from Topics 5-7
+* The exam begins at 10:30 AM on Thursday, November 11. The deadline
+  is 24 hours later: 10:30 AM on Friday, November 12.
 
 ----
-Last modified: Fri Oct 01 16:36:28 UTC 2021 by jmac.
+Last modified: Thu Nov 04 03:22:19 UTC 2021 by jmac.

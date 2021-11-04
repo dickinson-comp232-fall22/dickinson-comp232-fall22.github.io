@@ -1,5 +1,20 @@
 # Detailed schedule
 
+## Class 17
+
+Note the announcement of midterm exam 2. Also note that homework six
+will be graded on completeness only, and can optionally be turned in
+before the exam or after the exam.
+
+Topics:
+* Heap sort
+* Stability of sorting algorithms
+* Example of real-world sorting algorithm
+
+PowerPoint: [class17-heap-sort.pptx](class17/class17-heap-sort.pptx)
+
+
+
 ## Class 16
 
 Sorting algorithms: Today we study *insertion sort* and *merge
@@ -225,4 +240,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 02 20:34:22 UTC 2021 by jmac.
+Last modified: Thu Nov 04 04:37:59 UTC 2021 by jmac.
