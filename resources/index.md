@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 18
+
+Exam review session. Please bring any questions.
+
+Also, we will go over stable sorting again, using an updated
+explanation.
+
 ## Class 17
 
 Note the announcement of midterm exam 2. Also note that homework six
@@ -11,7 +18,7 @@ Topics:
 * Stability of sorting algorithms
 * Example of real-world sorting algorithm
 
-PowerPoint: [class17-heap-sort.pptx](class17/class17-heap-sort.pptx)
+PowerPoint: [class17-heap-sort.pptx](class17/class17-heap-sort.pptx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/6/2021</font>
 
 
 
@@ -240,4 +247,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Nov 04 04:37:59 UTC 2021 by jmac.
+Last modified: Sat Nov 06 16:31:05 UTC 2021 by jmac.
