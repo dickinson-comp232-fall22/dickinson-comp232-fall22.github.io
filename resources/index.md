@@ -7,6 +7,13 @@ Exam review session. Please bring any questions.
 Also, we will go over stable sorting again, using an updated
 explanation.
 
+As previously announced, homework assignment 6 will be graded on
+completeness only. Solutions are being made available today. Unlike
+most other homework assignments, you may consult the solutions when
+working on this assignment. To benefit as much as possible from the
+assignment, you should make a serious attempt at each question before
+consulting the solution.
+
 ## Class 17
 
 Note the announcement of midterm exam 2. Also note that homework six
@@ -247,4 +254,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Sat Nov 06 16:31:05 UTC 2021 by jmac.
+Last modified: Tue Nov 09 14:39:37 UTC 2021 by jmac.
