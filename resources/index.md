@@ -2,6 +2,17 @@
 
 ## Class 18
 
+Hash tables, session I.
+
+PowerPoint: [class18-hash-tables.pptx](class18/class18-hash-tables.pptx)
+
+Java: [ComputerScientist.java](class18/ComputerScientist.java), and ...
+
+Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf)
+
+
+## Class 17b
+
 Exam review session. Please bring any questions.
 
 Also, we will go over stable sorting again, using an updated
@@ -254,4 +265,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 09 14:39:37 UTC 2021 by jmac.
+Last modified: Mon Nov 15 19:18:27 UTC 2021 by jmac.
