@@ -21,7 +21,7 @@ PowerPoint: [class18-hash-tables.pptx](class18/class18-hash-tables.pptx)
 Java: [HashCodes.java](class18/HashCodes.java) and
 [ComputerScientist.java](class18/ComputerScientist.java)
 
-Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf)
+Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf) (and the [handout solution](class18/hash-table-handout-solution.pdf))
 
 
 ## Class 17b
@@ -278,4 +278,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Nov 18 13:14:54 UTC 2021 by jmac.
+Last modified: Thu Nov 18 14:46:06 UTC 2021 by jmac.
