@@ -1,5 +1,17 @@
 # Detailed schedule
 
+## Class 19
+
+Hash tables, session II. We continue with the PowerPoint, Java files,
+and handout from last time.
+
+As part of our discussion of a few computer scientists, it's well
+worth checking out [Joy
+Buolamwini](https://www.media.mit.edu/people/joyab/overview/)'s
+[poetofcode.com](https://poetofcode.com/) site, especially her video art "AI,
+Ain't I A Woman."
+
+
 ## Class 18
 
 Hash tables, session I.
@@ -266,4 +278,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 16 00:24:42 UTC 2021 by jmac.
+Last modified: Thu Nov 18 13:14:54 UTC 2021 by jmac.
