@@ -8,9 +8,19 @@ expressions. We may also begin on the Java Stream API.
 Code: [functionAsParam.py](class20/functionAsParam.py),
 [FunctionParameterDemo.java](class20/FunctionParameterDemo.java), [streamdemo.zip](class21/streamdemo.zip)
 
-To run Python code without installing anything, I recommend [repl.it](https://repl.it).
+To run Python code without installing anything,
+[repl.it](https://repl.it) is a good option.
 
-
+Purely for interest: If you are curious about where the "lambda" in
+lambda-expressions comes from... The use of the Greek letter lambda to
+represent an anonymous function was first introduced by Alonzo Church
+in his 1936 paper "[An Unsolvable Problem of Elementary Number
+Theory](http://links.jstor.org/sici?sici=0002-9327%28193604%2958%3A2%3C345%3AAUPOEN%3E2.0.CO%3B2-1)",
+American Journal of Mathematics, Vol. 58, No. 2. (Apr., 1936),
+pp. 345-363. This paper is one of two that are most closely linked
+with the birth of computer science as an academic discipline. The
+other is Alan Turing's paper on computable numbers, also from 1936. To
+find out more, take COMP314.
 
 
 ## Class 19
@@ -291,4 +301,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 23 04:25:00 UTC 2021 by jmac.
+Last modified: Tue Nov 23 14:10:27 UTC 2021 by jmac.
