@@ -11,7 +11,8 @@ public class FunctionParameterDemo {
 		}
 	}
 
-	public static class MultBy3IfPositive implements Function<Integer, Integer> {
+	public static class MultBy3IfPositive
+			implements Function<Integer, Integer> {
 		public Integer apply(Integer x) {
 			if (x > 0) {
 				return 3 * x;
@@ -33,6 +34,14 @@ public class FunctionParameterDemo {
 		Add5 add5 = new Add5();
 		MultBy3IfPositive multBy3IfPositive = new MultBy3IfPositive();
 		int val1 = applyToSeven(add5); // val1 = 12
+		int val1b = applyToSeven(new Add5()); // val1 = 12
 		int val2 = applyToSeven(multBy3IfPositive); // val2 = 21
+
+		int val3 = applyToSeven(x -> x + 5);
+
+		System.out.println(Math.sqrt(5));
+		int x = 5;
+		System.out.println(Math.sqrt(x));
+
 	}
 }
