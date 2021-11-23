@@ -1,5 +1,18 @@
 # Detailed schedule
 
+## Class 20
+
+Main topics for today: functional programming and lambda
+expressions. We may also begin on the Java Stream API.
+
+Code: [functionAsParam.py](class20/functionAsParam.py),
+[FunctionParameterDemo.java](class20/FunctionParameterDemo.java), [streamdemo.zip](class21/streamdemo.zip)
+
+To run Python code without installing anything, I recommend [repl.it](https://repl.it).
+
+
+
+
 ## Class 19
 
 Hash tables, session II. We continue with the PowerPoint, Java files,
@@ -278,4 +291,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Nov 18 21:53:10 UTC 2021 by jmac.
+Last modified: Tue Nov 23 04:25:00 UTC 2021 by jmac.
