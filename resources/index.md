@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 21
+
+Today's topic: Java Stream API. We pick up where we left off last time
+with the `filter()` method. A slightly updated version of
+[streamdemo.zip](class21/streamdemo.zip) is available.
+
 ## Class 20
 
 Main topics for today: functional programming and lambda
@@ -301,4 +307,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Tue Nov 23 14:10:27 UTC 2021 by jmac.
+Last modified: Sun Nov 28 22:48:21 UTC 2021 by jmac.
