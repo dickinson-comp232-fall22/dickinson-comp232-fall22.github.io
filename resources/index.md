@@ -1,5 +1,16 @@
 # Detailed schedule
 
+## Class 22
+
+Please fill out the [official feedback
+form](https://lms.dickinson.edu/mod/url/view.php?id=1059641) for the
+course (we will do this in class time).
+
+Today's topic: graphs, including adjacency matrices and adjacency
+lists.
+
+PowerPoint: [class22-graphs.pptx](class22/class22-graphs.pptx)
+
 ## Class 21
 
 Today's topic: Java Stream API. We pick up where we left off last time
@@ -307,4 +318,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Sun Nov 28 22:48:21 UTC 2021 by jmac.
+Last modified: Thu Dec 02 03:11:32 UTC 2021 by jmac.
