@@ -79,7 +79,10 @@ The instructions for the final exam are the same as for midterm exams, except th
 * The exam covers material from all topics, with extra emphasis on topics 8-10.
 * The exam begins at 5:00 PM on Monday, November 13. The deadline
   is 48 hours later: 5:00 PM on Wednesday, November 15.
+* The exam will be fully remote. The instructor will attempt to answer
+  questions posted to the Exams channel on Microsoft Teams within a
+  reasonable time.
 
 
 ----
-Last modified: Tue Dec 07 00:39:10 UTC 2021 by jmac.
+Last modified: Tue Dec 07 00:52:12 UTC 2021 by jmac.
