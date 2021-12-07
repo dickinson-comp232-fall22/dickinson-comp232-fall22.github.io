@@ -1,5 +1,21 @@
 # Detailed schedule
 
+## Class 23
+
+Please fill out the [official feedback
+form](https://lms.dickinson.edu/mod/url/view.php?id=1059641) if you
+have not done so already.
+
+Today's topic: depth-first and breadth-first graph traversals.
+
+PowerPoint:
+[intuitive-graph-traversals.pptx](class23/intuitive-graph-traversals.pptx)
+
+Handout: [graph-traversals-handout.pdf](class23/graph-traversals-handout.pdf)
+
+Handout solution: [graph-traversals-handout-solution.pdf](class23/graph-traversals-handout-solution.pdf)
+
+
 ## Class 22
 
 Please fill out the [official feedback
@@ -318,4 +334,4 @@ Please fill out the [GitHub username form](https://forms.office.com/r/Lwq49rwis0
 
 
 ----
-Last modified: Thu Dec 02 03:11:32 UTC 2021 by jmac.
+Last modified: Mon Dec 06 16:28:58 UTC 2021 by jmac.
