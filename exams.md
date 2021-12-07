@@ -73,5 +73,13 @@ The instructions for midterm exam 2 are the same as for midterm exam
 * The exam begins at 10:30 AM on Thursday, November 11. The deadline
   is 24 hours later: 10:30 AM on Friday, November 12.
 
+## Final Exam
+
+The instructions for the final exam are the same as for midterm exams, except that:
+* The exam covers material from all topics, with extra emphasis on topics 8-10.
+* The exam begins at 5:00 PM on Monday, November 13. The deadline
+  is 48 hours later: 5:00 PM on Wednesday, November 15.
+
+
 ----
-Last modified: Thu Nov 04 03:22:19 UTC 2021 by jmac.
+Last modified: Tue Dec 07 00:39:10 UTC 2021 by jmac.
