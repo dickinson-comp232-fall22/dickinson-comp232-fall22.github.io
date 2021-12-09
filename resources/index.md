@@ -1,5 +1,9 @@
 # Detailed schedule
 
+## Class 24
+
+Exam review. Whiteboard notes: [whiteboard-12-9-2021.png](class24/whiteboard-12-9-2021.png)
+
 ## Class 23
 
 Please fill out the [official feedback
