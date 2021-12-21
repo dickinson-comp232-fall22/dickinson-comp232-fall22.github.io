@@ -21,6 +21,7 @@
 * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988)
 * [Java API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) (version 17) at Oracle.com
 * The previous course: [COMP132](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/), and especially its [study guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx)
+* [WiD repos](wid-repos.md)
 * [Acknowledgment](acknowledgment.md)
 
 
@@ -41,4 +42,4 @@
 
 
 ----
-Last modified: Tue Dec 07 00:40:22 UTC 2021 by jmac.
+Last modified: Tue Dec 21 17:25:33 UTC 2021 by jmac.
