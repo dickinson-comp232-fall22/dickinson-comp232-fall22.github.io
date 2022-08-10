@@ -1,13 +1,13 @@
-# COMP232: Data Structures and Problem Solving, fall 2021
+# COMP232: Data Structures and Problem Solving, fall 2022
 
 * [Syllabus](syllabus.docx)
-* [Overview Schedule](schedule.xlsx)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font>
+* [Overview Schedule](schedule.xlsx)&nbsp;&nbsp;&nbsp;<!-- <font color="red">UPDATED on 12/6/2021</font> -->
 * [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
   access it, including the offline version.
 * [Homework assignments](hw)
-* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font>
+* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<!-- <font color="red">UPDATED on 12/6/2021</font> -->
 * [HowTo page](howto.md)
 * [Sample code](comp232-sample-code.zip)
 * [Quantitative Reasoning (QR) Associate](qra.md)
@@ -42,4 +42,4 @@
 
 
 ----
-Last modified: Tue Dec 21 17:25:33 UTC 2021 by jmac.
+Last modified: Wed Aug 10 15:26:49 UTC 2022 by jmac.
