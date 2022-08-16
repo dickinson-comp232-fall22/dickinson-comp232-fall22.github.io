@@ -2,8 +2,8 @@
 
 [under construction]
 
-<!-- * [Syllabus](syllabus.docx) -->
-<!-- * [Overview Schedule](schedule.xlsx)&nbsp;&nbsp;&nbsp;<\!-- <font color="red">UPDATED on 12/6/2021</font> -\-> -->
+* [Syllabus](syllabus-8-16-2022.docx)
+* [Overview Schedule](schedule-8-16-2022.xlsx)<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
 <!-- * [Detailed schedule](resources) -->
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
@@ -44,4 +44,4 @@
 
 
 ----
-Last modified: Wed Aug 10 21:23:23 UTC 2022 by jmac.
+Last modified: Tue Aug 16 20:25:31 UTC 2022 by jmac.
