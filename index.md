@@ -4,11 +4,11 @@
 
 * [Syllabus](syllabus-8-16-2022.docx)
 * [Overview Schedule](schedule-8-16-2022.xlsx)<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
-<!-- * [Detailed schedule](resources) -->
+* [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
   access it, including the offline version.
-<!-- * [Homework assignments](hw) -->
+* [Homework assignments](hw)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<\!-- <font color="red">UPDATED on 12/6/2021</font> -\-> -->
 * [HowTo page](howto.md)
 <!-- * [Sample code](comp232-sample-code.zip) -->
@@ -44,4 +44,4 @@
 
 
 ----
-Last modified: Tue Aug 16 20:25:31 UTC 2022 by jmac.
+Last modified: Tue Aug 16 23:45:22 UTC 2022 by jmac.
