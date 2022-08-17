@@ -11,13 +11,11 @@
 * [Homework assignments](hw)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<\!-- <font color="red">UPDATED on 12/6/2021</font> -\-> -->
 * [HowTo page](howto.md)
-<!-- * [Sample code](comp232-sample-code.zip) -->
-<!-- * [Quantitative Reasoning (QR) Associate](qra.md) -->
-<!-- * [Quantitative Reasoning (QR) Center](https://users.dickinson.edu/~jmac/qr-center.html) -->
-<!-- * [CS help room](help-room/cs-help-room.md) -->
-* [Instructor's office hours](https://users.dickinson.edu/~jmac/office-hours.html)
-<!-- * [Class Caf&eacute; on Microsoft Teams](https://teams.microsoft.com/l/channel/19%3adfaa759531294a5db934de2c461e757f%40thread.tacv2/Class%2520Caf%25C3%25A9?groupId=58a2e67c-ea1c-431b-b361-3b17e0f3df37&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb) -->
-<!-- * [Moodle site](https://lms.dickinson.edu/course/view.php?id=45781) for assignment solutions and exams -->
+* [Sample code](comp232-sample-code.zip)
+* [Ways to get help](help.md) in this course
+* Moodle sites for assignment solutions and exams: 
+  - [section 1 Moodle](https://lms.dickinson.edu/course/view.php?id=48061)
+  - [section 2 Moodle](https://lms.dickinson.edu/course/view.php?id=48723)
 * [Zoom link](https://lms.dickinson.edu/mod/url/view.php?id=1036902)
   for occasions when class is online
 <!-- * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988) -->
@@ -28,20 +26,7 @@
 
 
 
-<!---
-    <UL>
-      <LI><A HREF="syllabus-12-1-2020.docx">Syllabus</A> </LI>
-      <LI><A HREF="schedule-12-2-2020.xlsx">Summary schedule </A> </LI>
-      <LI><A HREF="resources">Detailed schedule and class resources</A></LI>
-      <LI><A HREF="hw">Homework assignments</A></LI>
-      <LI><A HREF="exams">Exams</A></LI>
-      <LI><A HREF="https://lms.dickinson.edu/course/view.php?id=45226">Moodle</A></LI>
-    </UL>
-    <hr>
-  </body>
-</html>
--->
 
 
 ----
-Last modified: Tue Aug 16 23:45:22 UTC 2022 by jmac.
+Last modified: Wed Aug 17 21:32:12 UTC 2022 by jmac.

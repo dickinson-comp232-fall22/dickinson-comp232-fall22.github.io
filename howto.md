@@ -15,13 +15,14 @@ environment), available from
 
 Unless stated otherwise, the following instructions apply to each homework assignment:
 
-1. Copy the starter code link, available from the course homework webpage.
+1. Copy the assignment invitation URL, available from the course
+   homework webpage.
 1. In a browser, log into your GitHub account.
 1. Paste the starter code link into the address bar of the same
    browser window you used to log in to GitHub and press enter to go
    to that link.
-1. If you see a message stating that you need to "Join the classroom:
-   ...", ignore it and click on "skip to the next step".
+1. Follow any instructions about joining a GitHub Classroom or linking
+   your GitHub login to the GitHub Classroom.
 1. You will see a message to accept an assignment. Once you accept the
    assignment, GitHub will provide you with a link that you can use to
    access your personal code repository for the assignment. You may
@@ -128,4 +129,4 @@ Otherwise, you can explicitly add the library using the following steps:
 
 
 ----
-Last modified: Wed Aug 17 18:24:00 UTC 2022 by jmac.
+Last modified: Wed Aug 17 18:42:11 UTC 2022 by jmac.
