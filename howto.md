@@ -18,7 +18,7 @@ Unless stated otherwise, the following instructions apply to each homework assig
 1. Copy the starter code link, available from the course homework webpage.
 1. In a browser, log into your GitHub account.
 1. Paste the starter code link into the address bar of the same
-   browser window you used to log in to GitHub adn press enter to go
+   browser window you used to log in to GitHub and press enter to go
    to that link.
 1. If you see a message stating that you need to "Join the classroom:
    ...", ignore it and click on "skip to the next step".
@@ -112,7 +112,7 @@ Otherwise, you can explicitly add the library using the following steps:
 
 1. Right-click the project in Package Explorer.
 1. Choose Import \| General \| File System, hit Next.
-1. Browse to the folder containing your .java file(s) and click the Select Folder button (or it may be labelled "Open" on a Mac) to select this folder.
+1. Browse to the folder containing your .java file(s) and click the Select Folder button (or it may be labeled "Open" on a Mac) to select this folder.
 1. Put checkmarks by every folder or file that you wish to import.
 1. Make sure the Into Folder setting is correct—usually this should be set to the `src` subdirectory of your project.
 1. Click Finish.
@@ -128,4 +128,4 @@ Otherwise, you can explicitly add the library using the following steps:
 
 
 ----
-Last modified: Tue Aug 24 13:18:39 UTC 2021 by jmac.
+Last modified: Wed Aug 17 18:24:00 UTC 2022 by jmac.
