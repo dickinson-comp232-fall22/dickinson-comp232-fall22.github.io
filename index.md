@@ -1,7 +1,5 @@
 # COMP232: Data Structures and Problem Solving, fall 2022
 
-[under construction]
-
 * [Syllabus](syllabus-8-16-2022.docx)
 * [Overview Schedule](schedule-8-16-2022.xlsx)<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
 * [Detailed schedule](resources)
@@ -29,4 +27,4 @@
 
 
 ----
-Last modified: Wed Aug 17 21:32:12 UTC 2022 by jmac.
+Last modified: Wed Aug 17 21:35:44 UTC 2022 by jmac.
