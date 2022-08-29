@@ -14,8 +14,7 @@
 * Moodle sites for assignment solutions and exams: 
   - [section 1 Moodle](https://lms.dickinson.edu/course/view.php?id=48061)
   - [section 2 Moodle](https://lms.dickinson.edu/course/view.php?id=48723)
-* [Zoom link](https://lms.dickinson.edu/mod/url/view.php?id=1036902)
-  for occasions when class is online
+<!-- * Zoom link for occasions when class is online -->
 <!-- * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988) -->
 * [Java API](https://docs.oracle.com/en/java/javase/18/docs/api/index.html) (version 18) at Oracle.com
 * The previous course: [COMP132](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/), and especially its [study guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx)
@@ -27,4 +26,4 @@
 
 
 ----
-Last modified: Mon Aug 22 13:17:38 UTC 2022 by jmac.
+Last modified: Mon Aug 29 18:53:49 UTC 2022 by jmac.
