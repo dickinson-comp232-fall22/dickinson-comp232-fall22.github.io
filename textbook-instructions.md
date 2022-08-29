@@ -30,6 +30,11 @@ The textbook is stored within a learning management system called [Canvas](https
   grading performed by Canvas will not affect your Dickinson grade in
   any way.
 
+* This version of the textbook was assembled in fall 2021. The title
+  of the book and the Canvas course reflect this. The fall 2021
+  version of the book is the correct version to use for our current
+  course.
+
 ## Offline version
 
 An [offline version of the
