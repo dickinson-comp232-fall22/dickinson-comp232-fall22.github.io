@@ -315,10 +315,15 @@
 <!-- * [SplitArrayIncomplete.java](class03/SplitArrayIncomplete.java) -->
 
 
-<!-- ## Class 2 -->
+## Class 2
 
-<!-- Elementary examples of recursion, using the coding examples in the -->
-<!-- textbook. -->
+Elementary examples of recursion, using the coding examples in the
+textbook, including: 1.2.1, 1.3.2, 1.3.7, 1.3.9, 1.4.3. We will return
+to 1.4.2 next time.
+
+Source code:
+* [RecursionExamples.java](class02/RecursionExamples.java)
+* [RecursionExamplesCompleted.java](class02/RecursionExamplesCompleted.java)
 
 
 
@@ -338,4 +343,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Tue Aug 16 23:43:05 UTC 2022 by jmac.
+Last modified: Thu Sep 01 11:21:27 UTC 2022 by jmac.
