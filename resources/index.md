@@ -319,6 +319,9 @@
     * [SubsetsIncomplete.java](class03/SubsetsIncomplete.java), [Subsets.java](class03/Subsets.java)
   - slides: [recursive-prob-transformation.pptx](class03/recursive-prob-transformation.pptx)
 
+* Note for hw1: you will need to add JUnit to the project. Search for
+  "JUnit" on the howto page for details.
+
 ## Class 2
 
 Elementary examples of recursion, using the coding examples in the
@@ -347,4 +350,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Sep 05 02:51:03 UTC 2022 by jmac.
+Last modified: Mon Sep 05 12:14:04 UTC 2022 by jmac.
