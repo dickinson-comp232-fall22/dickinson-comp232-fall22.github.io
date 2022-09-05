@@ -315,8 +315,8 @@
 * Key technique often needed: **recursive problem transformation**
   (add extra parameters so the recursion will work properly).  
   - Two examples:
-    * [SubsetsIncomplete.java](class03/SubsetsIncomplete.java), [Subsets.java](class03/Subsets.java)
     * [SplitArrayIncomplete.java](class03/SplitArrayIncomplete.java), [SplitArray.java](class03/SplitArray.java)
+    * [SubsetsIncomplete.java](class03/SubsetsIncomplete.java), [Subsets.java](class03/Subsets.java)
   - slides: [recursive-prob-transformation.pptx](class03/recursive-prob-transformation.pptx)
 
 ## Class 2
@@ -347,4 +347,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Sep 05 02:50:20 UTC 2022 by jmac.
+Last modified: Mon Sep 05 02:51:03 UTC 2022 by jmac.
