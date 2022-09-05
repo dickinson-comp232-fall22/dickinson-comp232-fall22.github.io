@@ -306,14 +306,18 @@
 <!-- * [subsets recursion tree](class04/subsets-recursion-tree.png) &ndash; fill this in for the recursion homework assignment -->
 <!-- * [whiteboard notes](class04/whiteboard-notes.pptx) -->
 
-<!-- ## Class 3 -->
+## Class 3
 
-<!-- Some more sophisticated examples of recursion, including `isReverse()` -->
-<!-- from the textbook and the following two examples based on COMP232 -->
-<!-- sample code: -->
-<!-- * [SubsetsIncomplete.java](class03/SubsetsIncomplete.java) -->
-<!-- * [SplitArrayIncomplete.java](class03/SplitArrayIncomplete.java) -->
+* Warmup: isReverse() -- textbook example 1.5.2, also available as [IsReverse.java](class03/IsReverse.java), [IsReverseCompleted.java](class03/IsReverseCompleted.java)
 
+* Main idea of recursion: solve a given problem using a simpler version of the same problem
+
+* Key technique often needed: **recursive problem transformation**
+  (add extra parameters so the recursion will work properly).  
+  - Two examples:
+    * [SubsetsIncomplete.java](class03/SubsetsIncomplete.java)
+    * [SplitArrayIncomplete.java](class03/SplitArrayIncomplete.java)
+  - slides: [recursive-prob-transformation.pptx](class03/recursive-prob-transformation.pptx)
 
 ## Class 2
 
@@ -343,4 +347,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Thu Sep 01 11:21:27 UTC 2022 by jmac.
+Last modified: Mon Sep 05 02:41:09 UTC 2022 by jmac.

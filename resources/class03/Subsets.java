@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @author Dickinson College
  * @version Jan 28, 2016
  */
-public class SubsetsIncomplete {
+public class Subsets {
 
 	/**
 	 * Generate all subsets of the characters in the string s. We assume s
@@ -62,15 +62,16 @@ public class SubsetsIncomplete {
 		ArrayList<String> subs = new ArrayList<String>();
 		if (rest.length() == 0) {
 			// rest is empty, so prefix is the only subset.
-			?????;
+			subs.add(prefix);
 			return subs;
 		} else {
 			// Add all subsets that include the first char of rest
-			ArrayList<String> incl = ??????;
+			ArrayList<String> incl = subsets(prefix + rest.charAt(0),
+					rest.substring(1));
 			subs.addAll(incl);
 
 			// Add all subsets that do not include the first char of rest
-			ArrayList<String> excl = ?????;
+			ArrayList<String> excl = subsets(prefix, rest.substring(1));
 			subs.addAll(excl);
 
 			return subs;

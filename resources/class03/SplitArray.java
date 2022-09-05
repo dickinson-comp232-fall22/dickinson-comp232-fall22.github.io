@@ -8,7 +8,7 @@ package recursion;
  * @author Dickinson College
  * @version Jan 28, 2016
  */
-public class SplitArrayIncomplete {
+public class SplitArray {
 
 	/**
 	 * Determine if the values in nums can be split into two groups such that
@@ -59,20 +59,20 @@ public class SplitArrayIncomplete {
 		 */
 		if (start >= nums.length && gp1Sum == gp2Sum) {
 			// No numbers left and the sums are equal - solution!
-			return ???;
+			return true;
 		} else if (start >= nums.length) {
 			// No numbers left and the sums are not equal - no solution!
-			return ???;
+			return false;
 		} else {
 			// try putting nums[start] in group 1.
 			if (splitArray(nums, start + 1, gp1Sum + nums[start], gp2Sum)) {
 				// Found a solution to rest of problem with nums[start] in group 1!
-				return ???;
+				return true;
 			}
 			// no solution with nums[start] in group 1
 
 			// nums[start] didn't work in group 1 so now try it in group 2
-			if (???) {
+			if (splitArray(nums, start + 1, gp1Sum, gp2Sum + nums[start])) {
 				// Found a solution to rest of problem with nums[start] in group 2!
 				return true;
 			}
