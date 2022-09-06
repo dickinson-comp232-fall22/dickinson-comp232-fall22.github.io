@@ -6,9 +6,9 @@
 * hw1: recursion (topic 1)
   - instructions: [hw1.docx](hw1.docx)
   - assignment invitation URL: [https://classroom.github.com/a/omC2DmJm](https://classroom.github.com/a/omC2DmJm)
-<!-- * hw2: algorithm analysis (topic 2) -->
-<!--   - instructions: [hw2.docx](hw2.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/sccJpUlt](https://classroom.github.com/a/sccJpUlt) -->
+* hw2: algorithm analysis (topic 2)
+  - instructions: [hw2.docx](hw2.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/sccJpUlt](https://classroom.github.com/a/sccJpUlt)
 <!-- * hw3: generics and linear structures (topics 3 and 4) -->
 <!--   - instructions: [hw3.docx](hw3.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/fWo2y3Ix](https://classroom.github.com/a/fWo2y3Ix) -->
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Wed Aug 17 18:29:23 UTC 2022 by jmac.
+Last modified: Tue Sep 06 12:35:02 UTC 2022 by jmac.
