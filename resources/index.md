@@ -298,12 +298,14 @@
 <!-- * [whiteboard notes](class05/class5-whiteboard.png) -->
 
 
-<!-- ## Class 4 -->
+## Class 4
 
-<!-- *Backtracking* and its connection to recursion, via *recursion trees*. -->
+*Backtracking* and its connection to recursion, via *recursion trees*.
 
-<!-- * [PermutationsIncomplete.java](class04/PermutationsIncomplete.java) -->
-<!-- * [subsets recursion tree](class04/subsets-recursion-tree.png) &ndash; fill this in for the recursion homework assignment -->
+
+* [SubsetsIncomplete.java](class03/SubsetsIncomplete.java), [Subsets.java](class03/Subsets.java)
+* [PermutationsIncomplete.java](class04/PermutationsIncomplete.java), [Permutations.java](class04/Permutations.java)
+* [subsets recursion tree](class04/subsets-recursion-tree.png) &ndash; fill this in for the recursion homework assignment
 <!-- * [whiteboard notes](class04/whiteboard-notes.pptx) -->
 
 ## Class 3
@@ -350,4 +352,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Sep 05 12:14:04 UTC 2022 by jmac.
+Last modified: Wed Sep 07 13:28:16 UTC 2022 by jmac.

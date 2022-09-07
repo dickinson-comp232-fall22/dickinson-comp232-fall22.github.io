@@ -1,3 +1,5 @@
+package recursion;
+
 import java.util.ArrayList;
 
 /**
@@ -8,7 +10,7 @@ import java.util.ArrayList;
  * @author Dickinson College
  * @version Jan 28, 2016
  */
-public class PermutationsIncomplete {
+public class Permutations {
 
 	/**
 	 * Generate all of the permutations of the characters in the specified
@@ -36,18 +38,17 @@ public class PermutationsIncomplete {
 			return perms;
 		} else {
 			
-			// For each character ch in s
+			// For each character c in s
 			for (int i = 0; i < s.length(); i++) {
 				char ch = s.charAt(i);
 				
-				// Get the permutations of s without ch
+				// Get the permutations of s without c
 				String noCh = s.substring(0, i) + s.substring(i + 1);
-				ArrayList<String> subPerms = ????;
+				ArrayList<String> subPerms = permute(noCh);	
 				
 				// Prepend c to each of the permutations of s without c
 				for (String sp : subPerms) {
-					String permWithCh = ????; 
-					perms.add(permWithCh);
+					perms.add(new String(ch + sp));
 				}
 			}
 
