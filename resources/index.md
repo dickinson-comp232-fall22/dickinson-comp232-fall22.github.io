@@ -300,6 +300,9 @@ Overview of asymptotic running times, especially big-O.
 * [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
 * Slides for asymptotic analysis: [asymptotic-notation.pptx](class05/asymptotic-notation.pptx)
 * Handout on [formal definitions of asymptotic notation](class05/asymp-formal-defs.pdf)
+* Code for today:
+  - [OpCountExamples.java](class05/OpCountExamples.java)
+  - [AverageCase.java](class05/AverageCase.java)
 <!-- * [whiteboard notes](class05/class5-whiteboard.png) -->
 
 
@@ -357,4 +360,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Sun Sep 11 20:05:56 UTC 2022 by jmac.
+Last modified: Sun Sep 11 20:46:13 UTC 2022 by jmac.
