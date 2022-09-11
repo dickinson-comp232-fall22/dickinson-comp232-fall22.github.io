@@ -290,11 +290,16 @@
 
 
 
-<!-- ## Class 5 -->
+## Class 5
 
-<!-- Overview of asymptotic running times, especially big-O. -->
+Overview of asymptotic running times, especially big-O.
 
-<!-- * [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order) -->
+* As an optional alternative to today's reading from the textbook, an
+  excerpt from the book *What Can Be Computed?* (WCBC) is available on
+  Moodle ([section 1](https://lms.dickinson.edu/mod/resource/view.php?id=1131204), [section 2](https://lms.dickinson.edu/mod/resource/view.php?id=1131205))
+* [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
+* Slides for asymptotic analysis: [asymptotic-notation.pptx](class05/asymptotic-notation.pptx)
+* Handout on [formal definitions of asymptotic notation](class05/asymp-formal-defs.pdf)
 <!-- * [whiteboard notes](class05/class5-whiteboard.png) -->
 
 
@@ -352,4 +357,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Sep 07 13:28:16 UTC 2022 by jmac.
+Last modified: Sun Sep 11 20:05:56 UTC 2022 by jmac.
