@@ -12,12 +12,9 @@ public class OpCountExamples {
 	/**
 	 * Replace the first occurrence of x in arr with y.
 	 * 
-	 * @param arr
-	 *            the array of values
-	 * @param x
-	 *            the value to be replaced
-	 * @param y
-	 *            the value that replaces x
+	 * @param arr the array of values
+	 * @param x   the value to be replaced
+	 * @param y   the value that replaces x
 	 */
 	public static void replaceFirstX(int[] arr, int x, int y) {
 		int i = 0;
@@ -32,11 +29,10 @@ public class OpCountExamples {
 	}
 
 	/**
-	 * Find the most frequent value in the given arr. Assume that arr is square
-	 * and that the values in arr are between 0 and arr.length.
+	 * Find the most frequent value in the given arr. Assume that arr is
+	 * square and that the values in arr are between 0 and arr.length.
 	 * 
-	 * @param arr
-	 *            a square 2d array of values in the range [0...arr.length]
+	 * @param arr a square 2d array of values in the range [0...arr.length]
 	 * @return the most frequent value in arr.
 	 */
 	public static int mostFrequentValue(int[][] arr) {
@@ -59,11 +55,10 @@ public class OpCountExamples {
 	}
 
 	/**
-	 * Compute the sum of all of the elements in the lower triangle of array.
-	 * Assume that arr is square.
+	 * Compute the sum of all of the elements in the lower triangle of
+	 * array. Assume that arr is square.
 	 * 
-	 * @param arr
-	 *            a square 2d array.
+	 * @param arr a square 2d array.
 	 * @return the lower triangular sum of arr.
 	 */
 	public static int lowerTriangularSum(int[][] arr) {
@@ -74,5 +69,25 @@ public class OpCountExamples {
 			}
 		}
 		return total;
+	}
+
+	
+	public static void printArray(int[] vals) {
+		for(int v:vals) {
+			System.out.print(v + " ");
+		}
+		System.out.println();
+	}
+	
+	public static void main(String[] args) {
+		int[] vals = { 2, 4, 6, 8, 10 };
+		
+		System.out.print("Before: ");
+		printArray(vals);
+		
+		replaceFirstX(vals, 8, 20);
+		
+		System.out.print("After: ");
+		printArray(vals);		
 	}
 }
