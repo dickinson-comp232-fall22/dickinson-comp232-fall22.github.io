@@ -9,9 +9,9 @@
 * hw2: algorithm analysis (topic 2)
   - instructions: [hw2.docx](hw2.docx)
   - assignment invitation URL: [https://classroom.github.com/a/sccJpUlt](https://classroom.github.com/a/sccJpUlt)
-<!-- * hw3: generics and linear structures (topics 3 and 4) -->
-<!--   - instructions: [hw3.docx](hw3.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/fWo2y3Ix](https://classroom.github.com/a/fWo2y3Ix) -->
+* hw3: generics and linear structures (topics 3 and 4)
+  - instructions: [hw3.docx](hw3.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/fWo2y3Ix](https://classroom.github.com/a/fWo2y3Ix)
 <!-- * hw4: binary trees (topic 5) -->
 <!--   - instructions: [hw4.docx](hw4.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/SUtpftfO](https://classroom.github.com/a/SUtpftfO) -->
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Tue Sep 06 12:35:02 UTC 2022 by jmac.
+Last modified: Wed Sep 14 13:58:35 UTC 2022 by jmac.
