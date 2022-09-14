@@ -281,12 +281,15 @@
 <!-- * [whiteboard notes](class07/whiteboard-class7.png) -->
 
 
-<!-- ## Class 6 -->
+## Class 6
 
-<!-- Formal definition of big-O, big-omega, big-theta. Solving recurrence -->
-<!-- relations via expansion. -->
+Formal definition of big-O, big-omega, big-theta. Solving recurrence
+relations via expansion.
 
 <!-- * [whiteboard notes](class06/class06-whiteboard.png) -->
+* Handout on [formal definitions of asymptotic
+  notation](class05/asymp-formal-defs.pdf).
+* handout for [solving recurrence relations via expansion](class06/recurrence-expansion.pdf).
 
 
 
@@ -360,4 +363,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Sun Sep 11 20:46:13 UTC 2022 by jmac.
+Last modified: Wed Sep 14 02:47:31 UTC 2022 by jmac.
