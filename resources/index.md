@@ -271,27 +271,31 @@
 <!-- * [MyThreeFavoriteThings.java](class08/MyThreeFavoriteThings.java) -->
 <!-- * [MyThreeFavoriteThingsGeneric.java](class08/MyThreeFavoriteThingsGeneric.java) -->
 
-<!-- ## Class 7 -->
+## Class 7
 
-<!-- Review of algorithm analysis topic. -->
+Topics:
+* Asymptotic analysis of recursive programs. Example code:
+  - [PrintXs.java](class07/PrintXs.java)
+  - [SayHi.java](class07/SayHi.java)
+  - [DoManyIncrements.java](class07/DoManyIncrements.java)
+* Solving recurrence relations by expansion. 
+  - Examples: [recurrence-expansion-examples.pdf](class07/recurrence-expansion-examples.pdf)
 
-<!-- * [SayHi.java](class07/SayHi.java) -->
-<!-- * [handout](class07/class7-handout.pdf) for practising asymptotic -->
-<!--   analysis from first principles -->
-<!-- * [whiteboard notes](class07/whiteboard-class7.png) -->
+We may also have time to review formal definitions of asymptotic
+notation, in which case the following handout will be used:
+* [asymp-formal-defn-practise.pdf](class07/asymp-formal-defn-practise.pdf)
 
 
 ## Class 6
 
-Formal definition of big-O, big-omega, big-theta. Solving recurrence
-relations via expansion.
+* Formal definition of big-O, big-omega, big-theta. 
+  - Handout on [formal definitions of asymptotic
+    notation](class05/asymp-formal-defs.pdf).
+* Best case, worst-case, and average case analysis. Example code:
+  - [OpCountExamples.java](class05/OpCountExamples.java)
+  - [AverageCase.java](class05/AverageCase.java)
 
-<!-- * [whiteboard notes](class06/class06-whiteboard.png) -->
-* Handout on [formal definitions of asymptotic
-  notation](class05/asymp-formal-defs.pdf).
-* handout for [solving recurrence relations via expansion](class06/recurrence-expansion.pdf).
-
-
+* ~~Solving recurrence relations via expansion.~~
 
 ## Class 5
 
@@ -303,7 +307,7 @@ Overview of asymptotic running times, especially big-O.
 * [fun link comparing sorting algorithm running times](http://www.sorting-algorithms.com/random-initial-order)
 * Slides for asymptotic analysis: [asymptotic-notation.pptx](class05/asymptotic-notation.pptx)
 * Handout on [formal definitions of asymptotic notation](class05/asymp-formal-defs.pdf)
-* Code for today:
+* Code for understanding best, worst, and average case:
   - [OpCountExamples.java](class05/OpCountExamples.java)
   - [AverageCase.java](class05/AverageCase.java)
 <!-- * [whiteboard notes](class05/class5-whiteboard.png) -->
@@ -363,4 +367,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Sep 14 02:47:31 UTC 2022 by jmac.
+Last modified: Sun Sep 18 16:20:58 UTC 2022 by jmac.

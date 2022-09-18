@@ -1,7 +1,7 @@
 # COMP232: Data Structures and Problem Solving, fall 2022
 
 * [Syllabus](syllabus-8-22-2022.docx)
-* [Overview Schedule](schedule-9-14-2022.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/14/2022</font>
+* [Overview Schedule](schedule-9-18-2022.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font>
 * [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
@@ -26,4 +26,4 @@
 
 
 ----
-Last modified: Wed Sep 14 13:17:27 UTC 2022 by jmac.
+Last modified: Sun Sep 18 16:06:50 UTC 2022 by jmac.

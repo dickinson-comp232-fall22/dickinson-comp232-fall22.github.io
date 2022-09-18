@@ -10,7 +10,7 @@ public class SayHi {
 
 	/**
 	 * What is the running time T(n) of the following method? We can write
-	 * T(n) is a recurrence relation, then solve the recurrence relation to
+	 * T(n) as a recurrence relation, then solve the recurrence relation to
 	 * obtain a closed form for T(n).
 	 * 
 	 * @param n A parameter that controls the number of recursive calls. It
