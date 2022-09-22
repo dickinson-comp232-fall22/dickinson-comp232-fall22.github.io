@@ -282,6 +282,8 @@ Topics:
 * Solving recurrence relations by expansion. 
   - Examples: [recurrence-expansion-examples.pdf](class07/recurrence-expansion-examples.pdf)
 
+* Useful formula: [sum of geomtric progression](class07/geometric-progression.pdf)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/22/2022</font>
+
 We may also have time to review formal definitions of asymptotic
 notation, in which case the following handout will be used:
 * [asymp-formal-defn-practise.pdf](class07/asymp-formal-defn-practise.pdf)
@@ -368,4 +370,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Thu Sep 22 16:27:19 UTC 2022 by jmac.
+Last modified: Thu Sep 22 18:09:34 UTC 2022 by jmac.
