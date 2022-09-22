@@ -268,6 +268,7 @@
 
 Review of how to use generics. Then the new idea for this course: how to create your own generic classes and methods.
 
+* [warmup exercise](class08/warmup-exercise.pptx)
 * [MyThreeFavoriteThings.java](class08/MyThreeFavoriteThings.java)
 * [MyThreeFavoriteThingsGeneric.java](class08/MyThreeFavoriteThingsGeneric.java)
 
@@ -367,4 +368,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Thu Sep 22 13:00:03 UTC 2022 by jmac.
+Last modified: Thu Sep 22 16:27:19 UTC 2022 by jmac.
