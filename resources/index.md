@@ -264,12 +264,12 @@
 <!-- [Fill-in slide for running times of list -->
 <!-- operations](class09/list-operations.pptx) (array versus linked). -->
 
-<!-- ## Class 8 -->
+## Class 8
 
-<!-- Review of how to use generics. Then the new idea for this course: how to create your own generic classes and methods. -->
+Review of how to use generics. Then the new idea for this course: how to create your own generic classes and methods.
 
-<!-- * [MyThreeFavoriteThings.java](class08/MyThreeFavoriteThings.java) -->
-<!-- * [MyThreeFavoriteThingsGeneric.java](class08/MyThreeFavoriteThingsGeneric.java) -->
+* [MyThreeFavoriteThings.java](class08/MyThreeFavoriteThings.java)
+* [MyThreeFavoriteThingsGeneric.java](class08/MyThreeFavoriteThingsGeneric.java)
 
 ## Class 7
 
@@ -367,4 +367,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Sun Sep 18 16:20:58 UTC 2022 by jmac.
+Last modified: Thu Sep 22 13:00:03 UTC 2022 by jmac.
