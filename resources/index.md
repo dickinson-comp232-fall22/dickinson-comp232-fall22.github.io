@@ -246,23 +246,23 @@
 <!--    * [tollbooth-allegory.pptx](class10/tollbooth-allegory.pptx) -->
 
 
-<!-- ## Class 9 -->
+## Class 9
 
-<!-- Today's topics:  -->
-<!-- 1. Abstract data type (ADT) -->
-<!-- 1. List ADT -->
-<!-- 1. Array-based list implementation -->
-<!-- 1. linked list implementation -->
-<!-- 1. running times for list operations (array versus linked) -->
-<!-- 1. stack ADT -->
-<!-- 1. queue ADT -->
+Today's topics:
+1. Abstract data type (ADT)
+1. List ADT
+1. Array-based list implementation
+1. linked list implementation
+1. running times for list operations (array versus linked)
+1. stack ADT
+1. queue ADT
 
-<!-- Except for stacks and queues, all of the above is review of -->
-<!-- COMP132. See Topic 12 of the [COMP132 study -->
-<!-- guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx). -->
+Except for stacks and queues, all of the above is review of
+COMP132. See Topic 12 of the [COMP132 study
+guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx).
 
-<!-- [Fill-in slide for running times of list -->
-<!-- operations](class09/list-operations.pptx) (array versus linked). -->
+[Fill-in slide for running times of list
+operations](class09/list-operations.pptx) (array versus linked).
 
 ## Class 8
 
@@ -370,4 +370,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Thu Sep 22 18:09:34 UTC 2022 by jmac.
+Last modified: Mon Sep 26 13:19:57 UTC 2022 by jmac.
