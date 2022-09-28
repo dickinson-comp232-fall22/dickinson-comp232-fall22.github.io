@@ -233,17 +233,17 @@
 
 <!-- ## Class 10 -->
 
-<!-- Today's topics: -->
-<!-- 1. Iterators -->
-<!--    * This is a repeat of class meeting 41 from COMP132. See topic 12e -->
-<!--      of the [COMP132 study -->
-<!-- guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx). -->
-<!--    * code: [Friends.java](class10/Friends.java), [FriendsIterator.java](class10/FriendsIterator.java), -->
-<!--      [FriendsIteratorUnfinished.java](class10/FriendsIteratorUnfinished.java), [FriendsNested.java](class10/FriendsNested.java). -->
-<!--    * [slide explaining traversal](class10/traversal.pptx) -->
-<!-- 1. Example of amortized analysis: cost of adding to an ArrayList -->
-<!--    * This is an optional topic that will not appear on exams or homework. -->
-<!--    * [tollbooth-allegory.pptx](class10/tollbooth-allegory.pptx) -->
+Today's topics:
+1. Iterators
+   * This is a repeat of material from COMP132. See topic 12e
+     of the [COMP132 study
+guide](https://users.dickinson.edu/~jmac/courses/previous/spring-2021-comp132/study-guide-4-26-2021.docx).
+   * code: [Friends.java](class10/Friends.java), [FriendsIterator.java](class10/FriendsIterator.java),
+     [FriendsIteratorUnfinished.java](class10/FriendsIteratorUnfinished.java), [FriendsNested.java](class10/FriendsNested.java).
+   * [slide explaining traversal](class10/traversal.pptx)
+1. Example of amortized analysis: cost of adding to an ArrayList
+   * This is an optional topic that will not appear on exams or homework.
+   * [tollbooth-allegory.pptx](class10/tollbooth-allegory.pptx)
 
 
 ## Class 9
@@ -370,4 +370,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Sep 26 13:19:57 UTC 2022 by jmac.
+Last modified: Wed Sep 28 17:25:07 UTC 2022 by jmac.
