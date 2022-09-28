@@ -231,7 +231,7 @@
 <!-- * [Whiteboard notes](class10b/whiteboard.png) -->
 
 
-<!-- ## Class 10 -->
+## Class 10
 
 Today's topics:
 1. Iterators
@@ -370,4 +370,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Sep 28 17:25:07 UTC 2022 by jmac.
+Last modified: Wed Sep 28 17:27:22 UTC 2022 by jmac.
