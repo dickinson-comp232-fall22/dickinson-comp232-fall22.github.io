@@ -225,7 +225,9 @@
 <!--   time giving hints where necessary. -->
 
 
-<!-- ## Exam review session -->
+## Exam review session
+
+Please bring any questions for material you would like to review before the exam.
 
 <!-- * [PowerPoint notes](class10b/class10b-review-session.pptx) -->
 <!-- * [Whiteboard notes](class10b/whiteboard.png) -->
@@ -370,4 +372,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Sep 28 17:27:22 UTC 2022 by jmac.
+Last modified: Mon Oct 03 13:22:05 UTC 2022 by jmac.
