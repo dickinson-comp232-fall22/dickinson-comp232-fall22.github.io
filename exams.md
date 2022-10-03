@@ -27,6 +27,12 @@ answers are inserted into a PDF document which is pushed to the
 `noncode-answers` directory in GitHub. Non-code answers may include
 handwritten solutions that have been scanned or photographed.
 
+<font color="green">The number of points allocated to a question
+indicates approximately how many minutes it would take a well-prepared
+student to complete that question. Example: a 5-point question should
+take about five minutes to answer, assuming you have already mastered
+all relevant concepts.</font>
+
 Students with academic accommodations receive extra time in the
 normal way. For example, if the stated time to submit the exam is 24
 hours, a student who normally receives time-and-a-half for tests will
@@ -73,4 +79,4 @@ timely response.
 
 
 ----
-Last modified: Thu Sep 22 17:42:42 UTC 2022 by jmac.
+Last modified: Mon Oct 03 17:45:05 UTC 2022 by jmac.

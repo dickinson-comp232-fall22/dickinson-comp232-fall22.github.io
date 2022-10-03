@@ -1,13 +1,13 @@
 # COMP232: Data Structures and Problem Solving, fall 2022
 
 * [Syllabus](syllabus-8-22-2022.docx)
-* [Overview Schedule](schedule-9-18-2022.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font>
+* [Overview Schedule](schedule-9-18-2022.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook](https://canvas.instructure.com/courses/3186473) on
   Canvas, and [instructions](textbook-instructions.md) on how to
   access it, including the offline version.
 * [Homework assignments](hw)
-* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">NEW on 9/22/2022</font>
+* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 10/3/2022</font>
 * [HowTo page](howto.md)
 * [Sample code](comp232-sample-code.zip)
 * [Ways to get help](help.md) in this course
@@ -26,4 +26,4 @@
 
 
 ----
-Last modified: Thu Sep 22 17:36:12 UTC 2022 by jmac.
+Last modified: Mon Oct 03 17:45:54 UTC 2022 by jmac.
