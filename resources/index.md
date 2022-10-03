@@ -231,7 +231,7 @@ Please bring any questions for material you would like to review before the exam
 
 * Review of stacks and queues: [stacks-and-queues-review.pptx](class10b/stacks-and-queues-review.pptx)
 
-* If interested, read about a [Canvas bug that is consuming CPU in browsers](https://community.canvaslms.com/t5/Canvas-Question-Forum/Canvas-taking-high-CPU-using-Chrome/m-p/538865/thread-id/177761/page/2).
+* If interested, read about a [Canvas bug that is consuming CPU in browsers](https://community.canvaslms.com/t5/Canvas-Question-Forum/Canvas-taking-high-CPU-using-Chrome/m-p/538865/thread-id/177761/page/2) (this affects our textbook).
 
 * Don't forget, HW3 will be graded only on completeness, not
   correctness. The solutions are available on Moodle.
@@ -379,4 +379,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 03 18:10:39 UTC 2022 by jmac.
+Last modified: Mon Oct 03 18:16:37 UTC 2022 by jmac.
