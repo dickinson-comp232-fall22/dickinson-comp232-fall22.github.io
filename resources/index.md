@@ -236,6 +236,11 @@ Please bring any questions for material you would like to review before the exam
 * Don't forget, HW3 will be graded only on completeness, not
   correctness. The solutions are available on Moodle.
 
+* Useful tip for adding Javadoc to a class, method, or constructor in
+  Eclipse: use Generate Element Comment from the Source menu. After
+  writing your comments, use Format Element in the same menu to fix
+  formatting.
+
 <!-- * [PowerPoint notes](class10b/class10b-review-session.pptx) -->
 <!-- * [Whiteboard notes](class10b/whiteboard.png) -->
 
@@ -379,4 +384,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 03 18:16:37 UTC 2022 by jmac.
+Last modified: Tue Oct 04 12:18:36 UTC 2022 by jmac.
