@@ -206,23 +206,23 @@
 <!-- * [whiteboard notes](class12/whiteboard-class12.png) &ndash; including updated list of nodes traversed for the warm-up example at the start -->
 
 
-<!-- ## Class 11 -->
+## Class 11
 
-<!-- Binary trees session 1. Today's topics:  -->
-<!-- * Basic definitions (root, leaves, internal loads, descendants, -->
-<!--   ancestors, depth, height, path length). -->
-<!-- * recursive nature of binary trees -->
-<!-- * Four types of traversals: Level order, pre-order, in order, post-order. -->
-<!-- * Our ADT for Binary trees -->
+Binary trees session 1. Today's topics:
+* Basic definitions (root, leaves, internal loads, descendants,
+  ancestors, depth, height, path length).
+* recursive nature of binary trees
+* Four types of traversals: Level order, pre-order, in order, post-order.
+* Our ADT for Binary trees
 
-<!-- Resources: -->
-<!-- * [PowerPoint notes](class11/topic5-binary-trees.pptx) -->
+Resources:
+* [PowerPoint notes](class11/topic5-binary-trees.pptx)
 
-<!-- For next time: -->
-<!-- * Make a start on the binary tree homework assignment (HW4). Try to -->
-<!--   look through all the questions and highlight areas where you need a -->
-<!--   hint to get started. In the next class meeting, we will spend some -->
-<!--   time giving hints where necessary. -->
+For next time:
+* Make a start on the binary tree homework assignment (HW4). Try to
+  look through all the questions and highlight areas where you need a
+  hint to get started. In the next class meeting, we will spend some
+  time giving hints where necessary.
 
 
 ## Exam review session
@@ -384,4 +384,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Tue Oct 04 12:18:36 UTC 2022 by jmac.
+Last modified: Mon Oct 10 18:46:16 UTC 2022 by jmac.
