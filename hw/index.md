@@ -12,9 +12,9 @@
 * hw3: generics and linear structures (topics 3 and 4)
   - instructions: [hw3.docx](hw3.docx)
   - assignment invitation URL: [https://classroom.github.com/a/fWo2y3Ix](https://classroom.github.com/a/fWo2y3Ix)
-<!-- * hw4: binary trees (topic 5) -->
-<!--   - instructions: [hw4.docx](hw4.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/SUtpftfO](https://classroom.github.com/a/SUtpftfO) -->
+* hw4: binary trees (topic 5)
+  - instructions: [hw4.docx](hw4.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/SUtpftfO](https://classroom.github.com/a/SUtpftfO)
 <!-- * hw5: binary tree applications (topic 6) -->
 <!--   - instructions: [hw5.docx](hw5.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/NS9SgnB3](https://classroom.github.com/a/NS9SgnB3) -->
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Wed Sep 14 13:58:35 UTC 2022 by jmac.
+Last modified: Mon Oct 10 23:05:15 UTC 2022 by jmac.
