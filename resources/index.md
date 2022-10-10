@@ -216,7 +216,7 @@ Binary trees session 1. Today's topics:
 * Our ADT for Binary trees
 
 Resources:
-* [PowerPoint notes](class11/topic5-binary-trees.pptx)
+* [PowerPoint notes](class11/topic5-binary-trees.pptx)   &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 10/10/2022</font>
 
 For next time:
 * Make a start on the binary tree homework assignment (HW4). Try to
@@ -384,4 +384,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 10 18:46:16 UTC 2022 by jmac.
+Last modified: Mon Oct 10 23:04:27 UTC 2022 by jmac.
