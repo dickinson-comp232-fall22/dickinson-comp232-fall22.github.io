@@ -181,26 +181,30 @@
 <!--   <\!-- - [handout solution](class13/bst-handout-solution.png) -\-> -->
 
 
-<!-- ## Class 12 -->
+## Class 12
 
-<!-- Binary trees session 2. Today's topics:  -->
-<!-- 1. Definitions of full and complete binary trees -->
-<!-- 1. Statement of two theorems about binary trees -->
-<!-- 1. Review traversals -->
-<!--    - Examine the code for level order traversal, which uses a queue -->
-<!--      rather than employing recursion. -->
-<!-- 1. Review binary tree ADT, and compare with the Map ADT -->
-<!-- 1. Overview of the Visitor design pattern (see sample code -->
-<!--    `tree.PrintVisitor.java` for an example). Additional examples of -->
-<!--    the Visitor pattern (**very** useful for the binary tree homework -->
-<!--    assignment): -->
-<!--    - [SumVisitor.java](class12/SumVisitor.java) -->
-<!--    - [AverageWithoutLowestVisitor.java](class12/AverageWithoutLowestVisitor.java) -->
-<!-- 1. Homework help for the binary tree homework assignment -->
-<!--    - [Hints for HW4, question 6](class12/hw4-qu6-hints.png) -->
+Binary trees session 2. Today's topics:
+1. Definitions of full and complete binary trees; and also totally
+   complete trees
+1. Statement of two theorems about binary trees (low importance -- see textbook)
+1. Very important theorem about totally complete trees: totally
+   complete tree of height $n$ has $2^{n+1}-1$ nodes (required knowledge,
+   not in textbook, see powerpoint from previous class meeting).
+1. Review traversals
+   - Examine the code for level order traversal, which uses a queue
+     rather than employing recursion.
+1. Review binary tree ADT, and compare with the Map ADT
+1. Overview of the Visitor design pattern (see sample code
+   `tree.PrintVisitor.java` for an example). Additional examples of
+   the Visitor pattern (**very** useful for the binary tree homework
+   assignment):
+   - [SumVisitor.java](class12/SumVisitor.java)
+   - [AverageWithoutLowestVisitor.java](class12/AverageWithoutLowestVisitor.java)
+1. Homework help for the binary tree homework assignment
+   - [Hints for HW4, question 6](class12/hw4-qu6-hints.png)
 
-<!-- A useful example of how to add methods that assist in debugging your -->
-<!-- code: [BTNode.java](class12/BTNode.java) -->
+A useful example of how to add methods that assist in debugging your
+code: [BTNode.java](class12/BTNode.java)
 
 <!-- Resources: -->
 <!-- * [whiteboard notes](class12/whiteboard-class12.png) &ndash; including updated list of nodes traversed for the warm-up example at the start -->
@@ -384,4 +388,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 10 23:04:27 UTC 2022 by jmac.
+Last modified: Wed Oct 12 14:33:51 UTC 2022 by jmac.
