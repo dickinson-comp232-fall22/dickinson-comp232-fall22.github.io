@@ -184,12 +184,14 @@
 ## Class 12
 
 Binary trees session 2. Today's topics:
-1. Definitions of full and complete binary trees; and also totally
-   complete trees
+1. Definitions of full and complete binary trees; and also perfect binary trees
 1. Statement of two theorems about binary trees (low importance -- see textbook)
-1. Very important theorem about totally complete trees: totally
-   complete tree of height $n$ has $2^{n+1}-1$ nodes (required knowledge,
-   not in textbook, see powerpoint from previous class meeting).
+1. Very important theorem about perfect binary trees: 
+   * a perfect binary tree of height h has 2^(h+1)-1 nodes (required
+     knowledge, not in textbook, see powerpoint from previous class
+     meeting).
+   * therefore, any binary tree with n nodes has height in O(log n) --
+     also required knowledge.
 1. Review traversals
    - Examine the code for level order traversal, which uses a queue
      rather than employing recursion.
@@ -220,7 +222,7 @@ Binary trees session 1. Today's topics:
 * Our ADT for Binary trees
 
 Resources:
-* [PowerPoint notes](class11/topic5-binary-trees.pptx)   &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 10/10/2022</font>
+* [PowerPoint notes](class11/topic5-binary-trees.pptx)   &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 10/12/2022</font>
 
 For next time:
 * Make a start on the binary tree homework assignment (HW4). Try to
@@ -388,4 +390,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Oct 12 14:33:51 UTC 2022 by jmac.
+Last modified: Wed Oct 12 15:09:24 UTC 2022 by jmac.
