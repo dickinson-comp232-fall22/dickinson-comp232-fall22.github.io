@@ -192,10 +192,10 @@ Binary trees session 2. Today's topics:
      meeting).
    * therefore, any binary tree with n nodes has height in O(log n) --
      also required knowledge.
-1. Review traversals
-   - Examine the code for level order traversal, which uses a queue
-     rather than employing recursion.
-1. Review binary tree ADT, and compare with the Map ADT
+<!-- 1. Review traversals -->
+<!--    - Examine the code for level order traversal, which uses a queue -->
+<!--      rather than employing recursion. -->
+<!-- 1. Review binary tree ADT, and compare with the Map ADT -->
 1. Overview of the Visitor design pattern (see sample code
    `tree.PrintVisitor.java` for an example). Additional examples of
    the Visitor pattern (**very** useful for the binary tree homework
@@ -390,4 +390,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Oct 12 15:09:24 UTC 2022 by jmac.
+Last modified: Thu Oct 13 17:43:02 UTC 2022 by jmac.
