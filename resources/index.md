@@ -169,13 +169,13 @@
     *right* child. For the homework, you must store equal keys in the
     *right* child, not the left child.
   - three BST operations:
-    * find
-	* add (also called insert)
-	* remove: 3 cases
-	  - zero children (easy)
-	  - one child (easy)
-	  - two children (swap in value from smallest node S in right
-        subtree, then call remove on S)
+    * `find` (also called `get`)
+	* `add` (also called `insert`)
+	* `remove`: 3 cases to remove node N
+	  - zero children (easy: remove N)
+	  - one child (easy: promote N's child to N's position)
+	  - two children (harder: swap in value from smallest node S in right
+        subtree of N, then call remove on S)
   - [PowerPoint slides describing the three BST operations](class13/class13-BSTs.pptx)
   - [handout to practice adding and removing BST nodes](class13/bst-handout.png)
   <!-- - [handout solution](class13/bst-handout-solution.png) -->
@@ -390,4 +390,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Tue Oct 18 20:33:27 UTC 2022 by jmac.
+Last modified: Wed Oct 19 21:19:11 UTC 2022 by jmac.
