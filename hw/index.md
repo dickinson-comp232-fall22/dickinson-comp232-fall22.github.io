@@ -15,9 +15,9 @@
 * hw4: binary trees (topic 5)
   - instructions: [hw4.docx](hw4.docx)
   - assignment invitation URL: [https://classroom.github.com/a/SUtpftfO](https://classroom.github.com/a/SUtpftfO)
-<!-- * hw5: binary tree applications (topic 6) -->
-<!--   - instructions: [hw5.docx](hw5.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/NS9SgnB3](https://classroom.github.com/a/NS9SgnB3) -->
+* hw5: binary tree applications (topic 6)
+  - instructions: [hw5.docx](hw5.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/NS9SgnB3](https://classroom.github.com/a/NS9SgnB3)
 <!-- * hw6: sorting (topic 7) -->
 <!--   - instructions: [hw6.docx](hw6.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/mG9TK8oW](https://classroom.github.com/a/mG9TK8oW) -->
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Mon Oct 10 23:05:15 UTC 2022 by jmac.
+Last modified: Wed Oct 19 00:46:18 UTC 2022 by jmac.
