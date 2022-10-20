@@ -178,7 +178,7 @@
         subtree of N, then call remove on S)
   - [PowerPoint slides describing the three BST operations](class13/class13-BSTs.pptx)
   - [handout to practice adding and removing BST nodes](class13/bst-handout.png)
-  <!-- - [handout solution](class13/bst-handout-solution.png) -->
+  - [handout solution](class13/bst-handout-solution.png)
 
 
 ## Class 12
