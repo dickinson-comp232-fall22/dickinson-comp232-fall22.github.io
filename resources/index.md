@@ -151,11 +151,11 @@
 <!-- Help and discussion of homework 5 (bring your own questions) -->
 
 
-<!-- ## Class 14 -->
+## Class 14
 
-<!-- * Main topic: **heaps** -->
-
-<!-- * [PowerPoint slides for heaps](class14/class14-heaps-slides.pptx) -->
+* [Results of midsemester feedback](class14/COMP232-mid-semester-feedback-fall2022.pdf)
+* Main topic: **heaps**
+  - [PowerPoint slides for heaps](class14/class14-heaps-slides.pptx)
 
 
 
@@ -394,4 +394,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Thu Oct 20 18:30:04 UTC 2022 by jmac.
+Last modified: Sat Oct 22 16:46:06 UTC 2022 by jmac.
