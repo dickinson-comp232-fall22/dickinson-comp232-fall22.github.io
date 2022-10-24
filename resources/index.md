@@ -157,6 +157,8 @@
 * Main topic: **heaps**
   - [PowerPoint slides for heaps](class14/class14-heaps-slides.pptx)
 
+Next time:
+Help and discussion of homework 5 (bring your own questions)
 
 
 ## Class 13
@@ -394,4 +396,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 24 18:28:40 UTC 2022 by jmac.
+Last modified: Mon Oct 24 18:32:29 UTC 2022 by jmac.
