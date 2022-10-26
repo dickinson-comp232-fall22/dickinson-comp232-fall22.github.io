@@ -128,27 +128,22 @@
 <!-- Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx) -->
 
 
-<!-- ## Class 15 -->
+## Class 15
 
-<!-- Mid-semester feedback results: -->
-<!--   - [mid-semester-feedback-results.pdf](class15/mid-semester-feedback-results.pdf) -->
-<!--   - [mid-semester-feedback-slides.pptx](class15/mid-semester-feedback-slides.pptx) -->
 
-<!-- Topics for today (all optional, not on the exam or homework): -->
-<!--   1. Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>` -->
-<!--      - These are called *bounded type parameters*. See [https://docs.oracle.com/javase/tutorial/java/generics/bounded.html](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html) -->
-<!--   1. AVL trees, or balanced trees generally. -->
-<!--      * [description](https://courses.grainger.illinois.edu/cs225/fa2021/resources/avl-trees/) -->
-<!-- 	 * [demo](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html) -->
-<!-- 	 * other balanced trees that are used in practice: -->
-<!-- 	   - [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree) -->
-<!-- 	   - [B-trees](https://en.wikipedia.org/wiki/B-tree) -->
-<!--   1. Javadoc demo -->
-<!--      * check out the Project \| Generate Javadoc... command in Eclipse. -->
-<!--   1. Proof that height of complete tree is O(log n). -->
-<!--      * follows from the fact that 1 + 2 + 4 + 8 + 16 + ... + 2^d = 2^(d+1) -1 -->
+Topics for today (all optional, not on the exam or homework):
+  1. Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
+     - These are called *bounded type parameters*. See [https://docs.oracle.com/javase/tutorial/java/generics/bounded.html](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html)
+  1. AVL trees, or balanced trees generally.
+     * [description](https://courses.grainger.illinois.edu/cs225/fa2021/resources/avl-trees/)
+	 * [demo](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+	 * other balanced trees that are used in practice:
+	   - [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+	   - [B-trees](https://en.wikipedia.org/wiki/B-tree)
+  1. Javadoc demo
+     * check out the Project \| Generate Javadoc... command in Eclipse.
   
-<!-- Help and discussion of homework 5 (bring your own questions) -->
+Help and discussion of homework 5 (bring your own questions)
 
 
 ## Class 14
@@ -396,4 +391,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 24 18:32:29 UTC 2022 by jmac.
+Last modified: Wed Oct 26 15:16:45 UTC 2022 by jmac.
