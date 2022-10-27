@@ -132,6 +132,7 @@
 
 
 Topics for today (all optional, not on the exam or homework):
+  1. Climate symposium discussion (and [NYTimes article on the Merge at Ethereum](https://www.nytimes.com/2022/08/26/technology/what-is-the-merge.html))
   1. Generic expressions like `CS232PriorityQueue<K extends Comparable<K>, V>`
      - These are called *bounded type parameters*. See [https://docs.oracle.com/javase/tutorial/java/generics/bounded.html](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html)
   1. AVL trees, or balanced trees generally.
