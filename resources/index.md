@@ -113,19 +113,19 @@
 
 
 
-<!-- ## Class 16 -->
+## Class 16
 
-<!-- Sorting algorithms: Today we study *insertion sort* and *merge -->
-<!-- sort*. Next time we study *heap sort*. Note that the textbook also -->
-<!-- discusses *selection sort* and mentions *bubble sort* and *quick -->
-<!-- sort*. It is good to read about and be aware of selection sort and -->
-<!-- bubble sort but we do not study them in detail. -->
+Sorting algorithms: Today we study *insertion sort* and *merge
+sort*. Next time we study *heap sort*. Note that the textbook also
+discusses *selection sort* and mentions *bubble sort* and *quick
+sort*. It is good to read about and be aware of selection sort and
+bubble sort but we do not study them in detail.
 
-<!-- We've seen this before: -->
-<!-- * [fun link comparing sorting algorithm running -->
-<!--   times](http://www.sorting-algorithms.com/random-initial-order) -->
+We've seen this before:
+* [fun link comparing sorting algorithm running
+  times](http://www.sorting-algorithms.com/random-initial-order)
 
-<!-- Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx) -->
+Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx)
 
 
 ## Class 15
@@ -392,4 +392,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Oct 26 15:16:45 UTC 2022 by jmac.
+Last modified: Fri Oct 28 12:22:44 UTC 2022 by jmac.
