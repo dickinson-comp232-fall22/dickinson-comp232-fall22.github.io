@@ -127,6 +127,7 @@ We've seen this before:
 
 Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx)
 
+Importnt basic fact: [sum-of-1-to-n.pdf](class16/sum-of-1-to-n.pdf)
 
 ## Class 15
 
@@ -392,4 +393,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Fri Oct 28 12:22:44 UTC 2022 by jmac.
+Last modified: Mon Oct 31 18:21:21 UTC 2022 by jmac.
