@@ -125,9 +125,10 @@ We've seen this before:
 * [fun link comparing sorting algorithm running
   times](http://www.sorting-algorithms.com/random-initial-order)
 
-Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx)
+Powerpoint: [class16-insertion-and-merge-sort.pptx](class16/class16-insertion-and-merge-sort.pptx) <font
+     color="red">[UPDATED 10/31/2022]</font>
 
-Importnt basic fact: [sum-of-1-to-n.pdf](class16/sum-of-1-to-n.pdf)
+Important basic fact: [sum-of-1-to-n.pdf](class16/sum-of-1-to-n.pdf)
 
 ## Class 15
 
@@ -393,4 +394,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Oct 31 18:21:21 UTC 2022 by jmac.
+Last modified: Tue Nov 01 01:20:15 UTC 2022 by jmac.
