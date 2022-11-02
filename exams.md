@@ -59,11 +59,11 @@ reasonable efforts to respond in a timely fashion, but it is best to
 ask any questions within the first 75 minutes of the exam to ensure a
 timely response.
 
-<!-- ## Midterm Exam 2 -->
+## Midterm Exam 2
 
-<!-- The instructions for midterm exam 2 are the same as for midterm exam -->
-<!-- 1, except that: -->
-<!-- * The exam covers material from Topics 5-7 -->
+The instructions for midterm exam 2 are the same as for midterm exam
+1, except that:
+* The exam covers material from Topics 5-7
 <!-- * The exam begins at 10:30 AM on Thursday, November 11. The deadline -->
 <!--   is 24 hours later: 10:30 AM on Friday, November 12. -->
 
@@ -79,4 +79,4 @@ timely response.
 
 
 ----
-Last modified: Mon Oct 03 17:45:05 UTC 2022 by jmac.
+Last modified: Wed Nov 02 11:12:18 UTC 2022 by jmac.

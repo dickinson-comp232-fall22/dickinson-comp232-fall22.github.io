@@ -98,18 +98,18 @@
 <!-- assignment, you should make a serious attempt at each question before -->
 <!-- consulting the solution. -->
 
-<!-- ## Class 17 -->
+## Class 17
 
-<!-- Note the announcement of midterm exam 2. Also note that homework six -->
-<!-- will be graded on completeness only, and can optionally be turned in -->
-<!-- before the exam or after the exam. -->
+Note the announcement of midterm exam 2. Also note that homework six
+will be graded on completeness only, and can optionally be turned in
+before the exam or after the exam.
 
-<!-- Topics: -->
-<!-- * Heap sort -->
-<!-- * Stability of sorting algorithms -->
-<!-- * Example of real-world sorting algorithm -->
+Topics:
+* Heap sort
+* Stability of sorting algorithms
+* Example of real-world sorting algorithm
 
-<!-- PowerPoint: [class17-heap-sort.pptx](class17/class17-heap-sort.pptx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/6/2021</font> -->
+PowerPoint: [class17-heap-sort.pptx](class17/class17-heap-sort.pptx)
 
 
 
@@ -394,4 +394,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Tue Nov 01 01:20:15 UTC 2022 by jmac.
+Last modified: Wed Nov 02 11:11:14 UTC 2022 by jmac.
