@@ -18,9 +18,9 @@
 * hw5: binary tree applications (topic 6)
   - instructions: [hw5.docx](hw5.docx)
   - assignment invitation URL: [https://classroom.github.com/a/NS9SgnB3](https://classroom.github.com/a/NS9SgnB3)
-<!-- * hw6: sorting (topic 7) -->
-<!--   - instructions: [hw6.docx](hw6.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/mG9TK8oW](https://classroom.github.com/a/mG9TK8oW) -->
+* hw6: sorting (topic 7) 
+   - instructions: [hw6.docx](hw6.docx)
+   - assignment invitation URL: [https://classroom.github.com/a/mG9TK8oW](https://classroom.github.com/a/mG9TK8oW)
 <!-- * hw7: hashing (topic 8) -->
 <!--   - instructions: [hw7.docx](hw7.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/FerrP35w](https://classroom.github.com/a/FerrP35w) -->
