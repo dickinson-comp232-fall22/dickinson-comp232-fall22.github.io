@@ -84,9 +84,9 @@
 <!-- Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf) (and the [handout solution](class18/hash-table-handout-solution.pdf) <font color="green">UPDATED on 11/18/2021 &ndash; fixed errors</font>) -->
 
 
-<!-- ## Class 17b -->
+## Class 17b
 
-<!-- Exam review session. Please bring any questions. -->
+Exam review session. Please bring any questions.
 
 <!-- Also, we will go over stable sorting again, using an updated -->
 <!-- explanation. -->
@@ -97,6 +97,7 @@
 <!-- working on this assignment. To benefit as much as possible from the -->
 <!-- assignment, you should make a serious attempt at each question before -->
 <!-- consulting the solution. -->
+
 
 ## Class 17
 
@@ -394,4 +395,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Nov 02 11:11:14 UTC 2022 by jmac.
+Last modified: Mon Nov 07 02:26:56 UTC 2022 by jmac.
