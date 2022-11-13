@@ -72,16 +72,16 @@
 <!-- Ain't I A Woman." -->
 
 
-<!-- ## Class 18 -->
+## Class 18
 
-<!-- Hash tables, session I. -->
+Hash tables, session I.
 
-<!-- PowerPoint: [class18-hash-tables.pptx](class18/class18-hash-tables.pptx) <font color="green">UPDATED on 11/18/2021 &ndash; fixed an error on slide 29</font> -->
+PowerPoint: [class18-hash-tables.pptx](class18/class18-hash-tables.pptx)
 
-<!-- Java: [HashCodes.java](class18/HashCodes.java) and -->
-<!-- [ComputerScientist.java](class18/ComputerScientist.java) -->
+Java: [HashCodes.java](class18/HashCodes.java) and
+[ComputerScientist.java](class18/ComputerScientist.java)
 
-<!-- Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf) (and the [handout solution](class18/hash-table-handout-solution.pdf) <font color="green">UPDATED on 11/18/2021 &ndash; fixed errors</font>) -->
+Handout: [hash-table-handout.pdf](class18/hash-table-handout.pdf) (and the [handout solution](class18/hash-table-handout-solution.pdf))
 
 
 ## Class 17b
@@ -395,4 +395,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Nov 07 02:26:56 UTC 2022 by jmac.
+Last modified: Sun Nov 13 23:45:05 UTC 2022 by jmac.
