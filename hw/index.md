@@ -21,9 +21,9 @@
 * hw6: sorting (topic 7) 
    - instructions: [hw6.docx](hw6.docx)
    - assignment invitation URL: [https://classroom.github.com/a/mG9TK8oW](https://classroom.github.com/a/mG9TK8oW)
-<!-- * hw7: hashing (topic 8) -->
-<!--   - instructions: [hw7.docx](hw7.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/FerrP35w](https://classroom.github.com/a/FerrP35w) -->
+* hw7: hashing (topic 8)
+  - instructions: [hw7.docx](hw7.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/FerrP35w](https://classroom.github.com/a/FerrP35w)
 <!-- * hw8: functional programming (topic 9) -->
 <!--   - instructions: [hw8.docx](hw8.docx) -->
 <!--   - assignment invitation URL: [https://classroom.github.com/a/XWQNdqyM](https://classroom.github.com/a/XWQNdqyM) -->
@@ -33,4 +33,4 @@
 
 
 ----
-Last modified: Wed Oct 19 00:46:18 UTC 2022 by jmac.
+Last modified: Wed Nov 16 13:34:44 UTC 2022 by jmac.
