@@ -24,13 +24,13 @@
 * hw7: hashing (topic 8)
   - instructions: [hw7.docx](hw7.docx)
   - assignment invitation URL: [https://classroom.github.com/a/FerrP35w](https://classroom.github.com/a/FerrP35w)
-<!-- * hw8: functional programming (topic 9) -->
-<!--   - instructions: [hw8.docx](hw8.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/XWQNdqyM](https://classroom.github.com/a/XWQNdqyM) -->
-<!-- * hw9: graphs (topic 10) -->
-<!--   - instructions: [hw9.docx](hw9.docx) -->
-<!--   - assignment invitation URL: [https://classroom.github.com/a/oBl_4goG](https://classroom.github.com/a/oBl_4goG) -->
+* hw8: functional programming (topic 9)
+  - instructions: [hw8.docx](hw8.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/XWQNdqyM](https://classroom.github.com/a/XWQNdqyM)
+* hw9: graphs (topic 10)
+  - instructions: [hw9.docx](hw9.docx)
+  - assignment invitation URL: [https://classroom.github.com/a/oBl_4goG](https://classroom.github.com/a/oBl_4goG)
 
 
 ----
-Last modified: Wed Nov 16 13:34:44 UTC 2022 by jmac.
+Last modified: Thu Nov 17 13:42:41 UTC 2022 by jmac.
