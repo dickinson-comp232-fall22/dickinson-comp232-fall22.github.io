@@ -60,16 +60,16 @@
 <!-- find out more, take COMP314. -->
 
 
-<!-- ## Class 19 -->
+## Class 19
 
-<!-- Hash tables, session II. We continue with the PowerPoint, Java files, -->
-<!-- and handout from last time. -->
+Hash tables, session II. We continue with the PowerPoint, Java files,
+and handout from last time.
 
-<!-- As part of our discussion of a few computer scientists, it's well -->
-<!-- worth checking out [Joy -->
-<!-- Buolamwini](https://www.media.mit.edu/people/joyab/overview/)'s -->
-<!-- [poetofcode.com](https://poetofcode.com/) site, especially her video art "AI, -->
-<!-- Ain't I A Woman." -->
+As part of our discussion of a few computer scientists, it's well
+worth checking out [Joy
+Buolamwini](https://www.media.mit.edu/people/joyab/overview/)'s
+[poetofcode.com](https://poetofcode.com/) site, especially her video art "AI,
+Ain't I A Woman."
 
 
 ## Class 18
@@ -395,4 +395,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Sun Nov 13 23:45:05 UTC 2022 by jmac.
+Last modified: Thu Nov 17 13:44:07 UTC 2022 by jmac.
