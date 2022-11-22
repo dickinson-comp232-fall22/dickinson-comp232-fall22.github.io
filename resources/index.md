@@ -40,7 +40,11 @@
 ## Class 20
 
 Main topics for today: functional programming and lambda
-expressions. We may also begin on the Java Stream API.
+expressions. We may also begin on the [Java Stream API](https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/stream/package-summary.html).
+
+This class and the next one will closely follow the corresponding
+textbook chapter, which is available for download as a Word document
+or PDF file.
 
 Code: [functionAsParam.py](class20/functionAsParam.py),
 [FunctionParameterDemo.java](class20/FunctionParameterDemo.java), [streamdemo.zip](class21/streamdemo.zip)
@@ -394,4 +398,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Nov 21 17:38:54 UTC 2022 by jmac.
+Last modified: Tue Nov 22 04:00:47 UTC 2022 by jmac.
