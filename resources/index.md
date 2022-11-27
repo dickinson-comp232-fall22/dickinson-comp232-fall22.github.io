@@ -31,11 +31,9 @@
 
 <!-- PowerPoint: [class22-graphs.pptx](class22/class22-graphs.pptx) -->
 
-<!-- ## Class 21 -->
+## Class 21
 
-<!-- Today's topic: Java Stream API. We pick up where we left off last time -->
-<!-- with the `filter()` method. A slightly updated version of -->
-<!-- [streamdemo.zip](class21/streamdemo.zip) is available. -->
+Today's topic: Java Stream API. Java code: [streamdemo.zip](class21/streamdemo.zip).
 
 ## Class 20
 
@@ -398,4 +396,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Tue Nov 22 04:00:47 UTC 2022 by jmac.
+Last modified: Sun Nov 27 14:41:35 UTC 2022 by jmac.
