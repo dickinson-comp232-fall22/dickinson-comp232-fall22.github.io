@@ -6,9 +6,11 @@
 
 <!-- ## Class 23 -->
 
-<!-- Please fill out the [official feedback -->
-<!-- form](https://lms.dickinson.edu/mod/url/view.php?id=1059641) if you -->
-<!-- have not done so already. -->
+<!-- There is an **additional feedback form** that will provide computer science faculty with significant additional assistance in shaping the COMP232 data structures course: -->
+<!-- * Please help us by filling out the [COMP232 topic assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URFpBS0hPMFA3RkNIWFgySzBXTjVIMzFZUS4u) at the start of class today. -->
+<!-- * In addition, please fill out the [official feedback -->
+<!-- form](https://dickinson.campuslabs.com/courseeval) if you have not -->
+<!-- done so already. -->
 
 <!-- Today's topic: depth-first and breadth-first graph traversals. -->
 
@@ -23,7 +25,7 @@
 <!-- ## Class 22 -->
 
 <!-- Please fill out the [official feedback -->
-<!-- form](https://lms.dickinson.edu/mod/url/view.php?id=1059641) for the -->
+<!-- form](https://dickinson.campuslabs.com/courseeval) for the -->
 <!-- course (we will do this in class time). -->
 
 <!-- Today's topic: graphs, including adjacency matrices and adjacency -->
@@ -396,4 +398,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Sun Nov 27 14:41:35 UTC 2022 by jmac.
+Last modified: Mon Nov 28 15:07:17 UTC 2022 by jmac.
