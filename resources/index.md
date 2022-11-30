@@ -22,16 +22,16 @@
 <!-- Handout solution: [graph-traversals-handout-solution.pdf](class23/graph-traversals-handout-solution.pdf) -->
 
 
-<!-- ## Class 22 -->
+## Class 22
 
-<!-- Please fill out the [official feedback -->
-<!-- form](https://dickinson.campuslabs.com/courseeval) for the -->
-<!-- course (we will do this in class time). -->
+Please fill out the [official feedback
+form](https://dickinson.campuslabs.com/courseeval) for the
+course (we will do this in class time).
 
-<!-- Today's topic: graphs, including adjacency matrices and adjacency -->
-<!-- lists. -->
+Today's topic: graphs, including adjacency matrices and adjacency
+lists.
 
-<!-- PowerPoint: [class22-graphs.pptx](class22/class22-graphs.pptx) -->
+PowerPoint: [class22-graphs.pptx](class22/class22-graphs.pptx)
 
 ## Class 21
 
@@ -398,4 +398,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Mon Nov 28 15:07:17 UTC 2022 by jmac.
+Last modified: Wed Nov 30 13:03:40 UTC 2022 by jmac.
