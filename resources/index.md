@@ -4,22 +4,22 @@
 
 <!-- Exam review. Whiteboard notes: [whiteboard-12-9-2021.png](class24/whiteboard-12-9-2021.png) -->
 
-<!-- ## Class 23 -->
+## Class 23
 
-<!-- There is an **additional feedback form** that will provide computer science faculty with significant additional assistance in shaping the COMP232 data structures course: -->
-<!-- * Please help us by filling out the [COMP232 topic assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URFpBS0hPMFA3RkNIWFgySzBXTjVIMzFZUS4u) at the start of class today. -->
-<!-- * In addition, please fill out the [official feedback -->
-<!-- form](https://dickinson.campuslabs.com/courseeval) if you have not -->
-<!-- done so already. -->
+There is an **additional feedback form** that will provide computer science faculty with significant additional assistance in shaping the COMP232 data structures course:
+* Please help us by filling out the [COMP232 topic assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URFpBS0hPMFA3RkNIWFgySzBXTjVIMzFZUS4u) at the start of class today.
+* In addition, please fill out the usual [official feedback
+form](https://dickinson.campuslabs.com/courseeval) if you have not
+done so already.
 
-<!-- Today's topic: depth-first and breadth-first graph traversals. -->
+Today's topic: depth-first and breadth-first graph traversals.
 
-<!-- PowerPoint: -->
-<!-- [intuitive-graph-traversals.pptx](class23/intuitive-graph-traversals.pptx) -->
+PowerPoint:
+[intuitive-graph-traversals.pptx](class23/intuitive-graph-traversals.pptx)
 
-<!-- Handout: [graph-traversals-handout.pdf](class23/graph-traversals-handout.pdf) -->
+Handout: [graph-traversals-handout.pdf](class23/graph-traversals-handout.pdf)
 
-<!-- Handout solution: [graph-traversals-handout-solution.pdf](class23/graph-traversals-handout-solution.pdf) -->
+Handout solution: [graph-traversals-handout-solution.pdf](class23/graph-traversals-handout-solution.pdf)
 
 
 ## Class 22
@@ -398,4 +398,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Nov 30 13:03:40 UTC 2022 by jmac.
+Last modified: Fri Dec 02 14:38:02 UTC 2022 by jmac.
