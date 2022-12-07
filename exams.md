@@ -67,16 +67,14 @@ The instructions for midterm exam 2 are the same as for midterm exam
 <!-- * The exam begins at 10:30 AM on Thursday, November 11. The deadline -->
 <!--   is 24 hours later: 10:30 AM on Friday, November 12. -->
 
-<!-- ## Final Exam -->
+## Final Exam
 
-<!-- The instructions for the final exam are the same as for midterm exams, except that: -->
-<!-- * The exam covers material from all topics, with extra emphasis on topics 8-10. -->
-<!-- * The exam begins at 5:00 PM on Monday, November 13. The deadline -->
-<!--   is 48 hours later: 5:00 PM on Wednesday, November 15. -->
-<!-- * The exam will be fully remote. The instructor will attempt to answer -->
-<!--   questions posted to the Exams channel on Microsoft Teams within a -->
-<!--   reasonable time. -->
+The instructions for the final exam are the same as for midterm exams, except that:
+* The exam covers material from all topics, with extra emphasis on topics 8-10.
+* Students have 48 hours to complete the take-home exam. The exam
+  begins 48 hours before the official final exam slot, and the
+  deadline to submit is the end of the official final exam slot.
 
 
 ----
-Last modified: Wed Nov 02 11:12:18 UTC 2022 by jmac.
+Last modified: Wed Dec 07 15:02:32 UTC 2022 by jmac.
