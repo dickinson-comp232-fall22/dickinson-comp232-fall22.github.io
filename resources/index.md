@@ -15,7 +15,8 @@ done so already.
 Today's topic: depth-first and breadth-first graph traversals.
 
 PowerPoint:
-[intuitive-graph-traversals.pptx](class23/intuitive-graph-traversals.pptx)
+[intuitive-graph-traversals.pptx](class23/intuitive-graph-traversals.pptx) <font
+     color="red">[UPDATED 12/7/2022]</font> (fixed error on slide 5)
 
 Handout: [graph-traversals-handout.pdf](class23/graph-traversals-handout.pdf)
 
@@ -398,4 +399,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Fri Dec 02 14:38:02 UTC 2022 by jmac.
+Last modified: Wed Dec 07 05:06:36 UTC 2022 by jmac.
