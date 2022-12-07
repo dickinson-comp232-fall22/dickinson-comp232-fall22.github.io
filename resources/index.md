@@ -1,8 +1,10 @@
 # Detailed schedule
 
-<!-- ## Class 24 -->
+## Class 24
 
-<!-- Exam review. Whiteboard notes: [whiteboard-12-9-2021.png](class24/whiteboard-12-9-2021.png) -->
+Exam review. Please bring questions and suggestions for review.
+
+<!-- Whiteboard notes: [whiteboard-12-9-2021.png](class24/whiteboard-12-9-2021.png) -->
 
 ## Class 23
 
@@ -399,4 +401,4 @@ Please fill out the [GitHub username form](https://forms.office.com/Pages/Respon
 
 
 ----
-Last modified: Wed Dec 07 05:06:36 UTC 2022 by jmac.
+Last modified: Wed Dec 07 05:08:19 UTC 2022 by jmac.
